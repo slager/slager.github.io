@@ -51,6 +51,7 @@
 		margin: 0 0 1em 0;
 		/* text-transform: uppercase; */
 		/* letter-spacing: 0.125em; */
+		letter-spacing: 0.05em;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
