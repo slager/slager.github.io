@@ -54,7 +54,11 @@
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-			color: inherit;
+			color: #629DD1;
+			text-decoration: underline;
+		}
+
+		h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
 			text-decoration: none;
 		}
 
@@ -905,6 +909,7 @@
 
 		#header h1 {
 			color: #666f77;
+			font-size: 1.25em;
 			font-weight: 500;
 			height: inherit;
 			left: 1.25em;
@@ -955,7 +960,7 @@
 						#header nav > ul > li a:hover {
 							color: #629DD1;
 						}
-
+						
 					#header nav > ul > li:first-child {
 						margin-left: 0;
 					}
