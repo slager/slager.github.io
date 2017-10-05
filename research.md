@@ -2,6 +2,7 @@
 layout: page
 title: Research
 permalink: /research
+navorder: 3
 ---
 
 This is text from research.md --> This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
