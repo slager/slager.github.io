@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Curriculum vitae
+title: CV
 permalink: /cv
 navorder: 2
 ---
 
-<br>
+<center><em><h2>Curriculum vitae</h2></em></center>
 
 # Book
 
