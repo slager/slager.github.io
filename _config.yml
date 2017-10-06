@@ -16,7 +16,7 @@
 title: Dave Slager
 email: slager@uw.edu
 description: > # this means to ignore newlines until "baseurl:"
-  I'm an ornithologist and PhD candidate at the University of Washington. I'm actively working on the structure and content of this new academic and personal website.
+  I'm currently working on the structure and content of this new website.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dlslager
