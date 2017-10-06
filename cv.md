@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: Curriculum vitae
 permalink: /cv
 navorder: 2
 ---
@@ -13,7 +13,9 @@ navorder: 2
 
 <br>
 
-# Peer-reviewed Articles
+# Peer-reviewed articles
+
+<p style="margin-left:3em;text-indent:-3em;">Battey, C.J., Linck, E.B., Epperly, K.L., French, C., <strong>Slager, D.L.</strong>, Sykes, P.W. Jr., and J. Klicka.  In press.  <a href="http://biorxiv.org/content/biorxiv/early/2017/05/05/132910.full.pdf">A migratory divide in the Painted Bunting (<i>Passerina ciris</i>)</a>. <i>The American Naturalist</i>.</p>
 
 <p style="margin-left:3em;text-indent:-3em;"><strong>Slager, D.L.</strong>, Rodewald, P.G., and P.J. Heglund.  2015.  <a href="http://dx.doi.org/10.1007/s00265-015-1993-y">Experimental effects of habitat type on the movement ecology and stopover duration of spring migrant Northern Waterthrushes (<i>Parkesia noveboracensis</i>)</a>. <i>Behavioral Ecology and Sociobiology</i> 69:1809-1819.</p>
 
@@ -31,17 +33,15 @@ navorder: 2
 
 <br>
 
-# Other Publications
+# Invited seminars
 
-<p style="margin-left:3em;text-indent:-3em;"><strong>Slager, D.L.</strong>  2011.  <a href="http://rave.ohiolink.edu/etdc/view?acc_num=osu1312987166">Movement ecology and stopover duration of Northern Waterthrush and Yellow-rumped Warbler during spring migration along the Upper Mississippi River</a>.  Master's Thesis.  The Ohio State University, Columbus, Ohio</p>
-
-<p style="margin-left:3em;text-indent:-3em;">Preston, R.L., Clifford, R.J., Thompson, J.A., <strong>Slager, D.L.</strong>, Petersen, C.W., and G.W. Kidder.  2004.  <a href="http://www.mdibl.org/documents/2004_Bulletin_000.pdf">CFTR mRNA expression in developing <i>Fundulus heteroclitus</i> embryos</a>.  <i>Bulletin of the Mount Desert Island Biological Laboratory</i> 43:25-27</p>
+<p style="margin-left:3em;text-indent:-3em;"><strong>Slager, D.L.</strong> 2017. Unlocking the genomes of museum specimens to address longstanding questions in avian biology. Thompson Hall Science and Mathematics Seminar, University of Puget Sound, Tacoma, Washington (talk)</p>
 
 <br>
 
-# Contributed Presentations
+# Contributed presentations
 
-<p style="margin-left:3em;text-indent:-3em;"><strong>Slager, D.L.</strong>  Genomic insights into the evolutionary history of the Northwestern Crow. FHL Seminar, University of Washington Friday Harbor Labs, Friday Harbor, Washington (talk)</p>
+<p style="margin-left:3em;text-indent:-3em;"><strong>Slager, D.L.</strong> 2017. Genomic insights into the evolutionary history of the Northwestern Crow. FHL Seminar, University of Washington Friday Harbor Labs, Friday Harbor, Washington (talk)</p>
 
 <p style="margin-left:3em;text-indent:-3em;">Battey, C.J., Linck, E.B., Epperly, K.L., French, C., <strong>Slager, D.L.</strong>, Sykes, P.W. Jr., Klicka, J. 2017.  A migratory divide in the Painted Bunting (<i>Passerina ciris</i>). Rocky Mountain Biological Laboratory, Graduate Student Talks, Gothic, Colorado (talk)</p>
 
@@ -49,7 +49,7 @@ navorder: 2
 
 <p style="margin-left:3em;text-indent:-3em;">Battey, C.J., Linck, E.B., Epperly, K.L., French, C., <strong>Slager, D.L.</strong>, Sykes, P.W. Jr., Klicka, J. 2017.  A migratory divide in the Painted Bunting (<i>Passerina ciris</i>). Society for the Study of Evolution, Society of of Systematic Biologists, and American Society of Naturalists Joint Meeting (Evolution 2017), Portland, Oregon (poster)</p>
 
-<p style="margin-left:3em;text-indent:-3em;"><strong>Slager, D.L.</strong>, Kevin L. E  2017.  Counting crows: a genomic look inside Seattle's taxonomic black box.  14th Annual Biology Graduate Student Symposium, University of Washington, Seattle, Washington (talk)</p>
+<p style="margin-left:3em;text-indent:-3em;"><strong>Slager, D.L.</strong>, Epperly, K.L., Ha, R.R., Rohwer, S., Van Hemert, C., and J. Klicka. 2017.  Counting crows: a genomic look inside Seattle's taxonomic black box.  14th Annual Biology Graduate Student Symposium, University of Washington, Seattle, Washington (talk)</p>
 
 <p style="margin-left:3em;text-indent:-3em;">Olmstead, R.G., Lu-Irving, P., Frost, L. and <strong>D.L. Slager</strong>. 2016. Patterns of interior continental disjunctions, examples from Lamiales, and an exploration of possible mechanisms.  Botany 2016 Conference, Savannah, Georgia (talk)</p>
 
@@ -77,7 +77,15 @@ navorder: 2
 
 <br>
 
-# Species Accounts in [Neotropical Birds](http://neotropical.birds.cornell.edu)
+# Miscellaneous publications
+
+<p style="margin-left:3em;text-indent:-3em;"><strong>Slager, D.L.</strong>  2011.  <a href="http://rave.ohiolink.edu/etdc/view?acc_num=osu1312987166">Movement ecology and stopover duration of Northern Waterthrush and Yellow-rumped Warbler during spring migration along the Upper Mississippi River</a>.  Master's Thesis.  The Ohio State University, Columbus, Ohio</p>
+
+<p style="margin-left:3em;text-indent:-3em;">Preston, R.L., Clifford, R.J., Thompson, J.A., <strong>Slager, D.L.</strong>, Petersen, C.W., and G.W. Kidder.  2004.  <a href="http://www.mdibl.org/documents/2004_Bulletin_000.pdf">CFTR mRNA expression in developing <i>Fundulus heteroclitus</i> embryos</a>.  <i>Bulletin of the Mount Desert Island Biological Laboratory</i> 43:25-27</p>
+
+<br>
+
+# Species accounts in [*Neotropical Birds Online*](http://neotropical.birds.cornell.edu)
 \*mentored undergraduate co-author for course-based research
 
 <p style="margin-left:3em;text-indent:-3em;">Smith, C.* and <strong>D.L. Slager</strong>. 2016. <a href="http://neotropical.birds.cornell.edu/portal/species/overview?p_p_spp=653356">Striped Sparrow (<i>Oriturus superciliosus</i>)</a> in T.S. Schulenberg, ed.  <i>Neotropical Birds Online</i>.  Cornell Lab of Ornithology, Ithaca, New York</p>
@@ -98,7 +106,7 @@ navorder: 2
 
 <br>
 
-# Species Accounts in [The Second Atlas of Breeding Birds in Ohio](http://www.psupress.org/books/titles/978-0-271-07127-5.html)
+# Species accounts in [*The Second Atlas of Breeding Birds in Ohio*](http://www.psupress.org/books/titles/978-0-271-07127-5.html)
 
 <p style="margin-left:3em;text-indent:-3em;"><strong>Slager, D.L.</strong> 2016. Gadwall (<i>Anas strepera</i>) in Rodewald, P.G., Shumar, M.B., Boone, A.T., Slager, D.L. and J. McCormac, eds. pp. 70-71 in <a href="http://www.psupress.org/books/titles/978-0-271-07127-5.html"><i>The Second Atlas of Breeding Birds in Ohio</i></a>. Penn State University Press, University Park, Pennsylvania.</p>
 
