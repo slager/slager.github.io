@@ -7,6 +7,58 @@ navorder: 2
 
 <center><em><h2>Curriculum vitae</h2></em></center>
 
+# Education
+
+<p style="margin-left:3em;text-indent:-3em;"><strong>Ph.D. (candidate), 2013-</strong>, Department of Biology, <strong>University of Washington</strong>, Seattle, Washington</p>
+
+<p style="margin-left:3em;text-indent:-3em;"><strong>M.S., 2008-2011</strong>, Wildlife Ecology, School of Environment and Natural Resources, <strong>The Ohio State University</strong>, Columbus, Ohio</p>
+
+<p style="margin-left:3em;text-indent:-3em;"><strong>B.S., 2001-2005</strong>, Biology and Biochemistry, <strong>Calvin College</strong>, Grand Rapids, Michigan</p>
+
+<br>
+
+# Appointments
+
+<p style="margin-left:3em;text-indent:-3em;"><strong>Teaching Assistant</strong>, 2013-, University of Washington</p>
+
+<p style="margin-left:3em;text-indent:-3em;"><strong>Short-term Research Fellow</strong>, 2017, Smithsonian Tropical Research Institute, Panamá</p>
+
+<p style="margin-left:3em;text-indent:-3em;"><strong>Curatorial Assistant</strong>, 2014, Ornithology Collection, Burke Museum of Natural History and Culture</p>
+
+<p style="margin-left:3em;text-indent:-3em;"><strong>Avian Surveys and Data Analysis Contractor</strong>, 2011-, Atwell LLC</p>
+
+<p style="margin-left:3em;text-indent:-3em;"><strong>Scientific Writing Contractor</strong>, 2013, The Ohio State University</p>
+
+<p style="margin-left:3em;text-indent:-3em;"><strong>Avian Field Research Crew Leader</strong>, 2012-2013, The Ohio State University</p>
+
+<p style="margin-left:3em;text-indent:-3em;"><strong>Director's Associateship Fellow</strong>, 2010-2011, Ohio Agricultural Research and Development Center, The Ohio State University</p>
+
+<p style="margin-left:3em;text-indent:-3em;"><strong>Environmental Fellow</strong>, 2009-2010, College of Food, Agriculture, and Environmental Sciences, The Ohio State University</p>
+
+<p style="margin-left:3em;text-indent:-3em;"><strong>University Fellow</strong>, 2008-2009, The Ohio State University</p>
+
+<p style="margin-left:3em;text-indent:-3em;"><strong>Avian Survey Technician</strong>, 2008, The Ohio State University</p>
+
+<p style="margin-left:3em;text-indent:-3em;"><strong>Avian Survey Technician</strong>, 2008, Michigan Natural Features Inventory</p>
+
+<p style="margin-left:3em;text-indent:-3em;"><strong>Avian Survey Technician</strong>, 2007, Western EcoSystems Technology</p>
+
+<p style="margin-left:3em;text-indent:-3em;"><strong>Teaching Assistant</strong>, 2006-2007, University of Utah</p>
+
+<p style="margin-left:3em;text-indent:-3em;"><strong>Avian Survey Technician</strong>, 2006, Kalamazoo Nature Center</p>
+
+<p style="margin-left:3em;text-indent:-3em;"><strong>Assistant Cancer Research Technician</strong>, 2005-2006, Van Andel Research Institute</p>
+
+<p style="margin-left:3em;text-indent:-3em;"><strong>Avian Field Research Technician</strong>, 2005, University of Michigan</p>
+
+<p style="margin-left:3em;text-indent:-3em;"><strong>NSF-REU Fellow</strong>, 2004, Department of Biology, University of Utah</p>
+
+<p style="margin-left:3em;text-indent:-3em;"><strong>NSF-REU Fellow</strong>, 2003, Mount Desert Island Biological Laboratory</p>
+
+<p style="margin-left:3em;text-indent:-3em;"><strong>Avian Field Research Technician</strong>, 2002, Michigan State University</p>
+
+<br>
+
 # Book
 
 <p style="margin-left:3em;text-indent:-3em;">Rodewald, P.G., Shumar, M.B., Boone, A.T., <strong>Slager, D.L.</strong>, and J. McCormac. 2016. <a href="http://www.psupress.org/books/titles/978-0-271-07127-5.html"><i>The Second Atlas of Breeding Birds in Ohio</i></a>. Penn State University Press, University Park, Pennsylvania. 578 pp.</p>
@@ -33,7 +85,7 @@ navorder: 2
 
 <br>
 
-# Invited seminars
+# Invited presentations
 
 <p style="margin-left:3em;text-indent:-3em;"><strong>Slager, D.L.</strong> 2017. Unlocking the genomes of museum specimens to address longstanding questions in avian biology. Thompson Hall Science and Mathematics Seminar, University of Puget Sound, Tacoma, Washington (talk)</p>
 
@@ -78,6 +130,8 @@ navorder: 2
 <br>
 
 # Miscellaneous publications
+
+<p style="margin-left:3em;text-indent:-3em;"><strong>Slager, D.L.</strong>  In press. Red-headed Woodpecker in <em>Atlas of Winter Birds of Ohio</em></p>
 
 <p style="margin-left:3em;text-indent:-3em;"><strong>Slager, D.L.</strong>  2011.  <a href="http://rave.ohiolink.edu/etdc/view?acc_num=osu1312987166">Movement ecology and stopover duration of Northern Waterthrush and Yellow-rumped Warbler during spring migration along the Upper Mississippi River</a>.  Master's Thesis.  The Ohio State University, Columbus, Ohio</p>
 
