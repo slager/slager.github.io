@@ -87,6 +87,12 @@ Hanging indent definition {:h } https://kramdown.gettalong.org/syntax.html#attri
 
 <br>
 
+# Publications
+
+See the [Publications](https://slager.github.io/pubs) page
+
+<br>
+
 # Grants & Awards
 
 **NSF Doctoral Dissertation Improvement Grant**, National Science Foundation, 2016, $20,085
