@@ -15,10 +15,10 @@ Hanging indent definition {:h } https://kramdown.gettalong.org/syntax.html#attri
 
 # Education
 
-**Ph.D. (candidate), 2013-**, Department of Biology, **University of Washington**, Seattle, Washington
+**Ph.D. student/candidate**, 2013-present, Department of Biology, **University of Washington**, Seattle, Washington. Graduate committee: John Klicka (advisor), Adam Leaché, Dick Olmstead, John Marzluff
 {:h }
 
-**M.S., 2008-2011**, Wildlife Ecology, School of Environment and Natural Resources, **The Ohio State University**, Columbus, Ohio
+**M.S., 2008-2011**, Wildlife Ecology, School of Environment and Natural Resources, **The Ohio State University**, Columbus, Ohio. Graduate committee: Paul Rodewald (advisor), Amanda Rodewald, Robert Gates
 {:h }
 
 **B.S., 2001-2005**, Biology and Biochemistry, **Calvin College**, Grand Rapids, Michigan
@@ -28,16 +28,16 @@ Hanging indent definition {:h } https://kramdown.gettalong.org/syntax.html#attri
 
 # Appointments
 
-**Teaching Assistant**, 2013-, University of Washington
+**Teaching Assistant**, 2013-present, University of Washington
 {:h }
 
-**Short-term Research Fellow**, 2017, Smithsonian Tropical Research Institute, Panamá
+**Short-term Research Fellow**, 2017, Smithsonian Tropical Research Institute
 {:h }
 
 **Curatorial Assistant**, 2014, Ornithology Collection, Burke Museum of Natural History and Culture
 {:h }
 
-**Avian Surveys and Data Analysis Contractor**, 2011-, Atwell LLC
+**Avian Surveys and Data Analysis Contractor**, 2011-present, Atwell LLC
 {:h }
 
 **Scientific Writing Contractor**, 2013, The Ohio State University
@@ -87,230 +87,181 @@ Hanging indent definition {:h } https://kramdown.gettalong.org/syntax.html#attri
 
 <br>
 
-# Book
+# Grants & Awards
 
-Rodewald, P.G., Shumar, M.B., Boone, A.T., **Slager, D.L.**, and J. McCormac. 2016. [*The Second Atlas of Breeding Birds in Ohio*](http://www.psupress.org/books/titles/978-0-271-07127-5.html). Penn State University Press, University Park, Pennsylvania 578 pp.
+**NSF Doctoral Dissertation Improvement Grant**, National Science Foundation, 2016, $20,085
+{:h }
+
+**Boeing International Fellowship**, University of Washington Graduate School, 2016, $7,665
+{:h }
+
+**Frank M. Chapman Research Grant**, American Museum of Natural History, 2016, $2,975
+{:h }
+
+**STRI Short-term Fellowship**, Smithsonian Tropical Research Institute, 2015, $4,000
+{:h }
+
+**OTS Research Fellowship**, Organization for Tropical Studies, 2015, $4,550
+{:h }
+
+**Robert T. Paine Experimental and Field Ecology Award**, University of Washington Department of Biology, 2015, $3,900
+{:h }
+
+**Student Travel Award**, Wilson Ornithological Society/Association of Field Ornithologists/Society of Canadian Ornithologists, 2015, $864
+{:h }
+
+**NSF-SSB Student Travel Award**, Model-based Molecular Systematics Workshop, National Science Foundation & Society of Systematic Biologists, 2015, $1,750
+{:h }
+
+**Student Travel Award**, American Ornithologists’ Union/Cooper Ornithological Society/Society of Canadian Ornithologists, 2014, $330
+{:h }
+
+**Student Travel Award**, 5th North American Ornithological Conference, 2012, $500
+{:h }
+
+**Marcia Brady Tucker Student Travel Award**, American Ornithologists’ Union, 2011, $347
+{:h }
+
+**Student Travel Award**, School of Environment and Natural Resources, The Ohio State University, 2011, $350
+{:h }
+
+**Student Travel Award**, Wilson Ornithological Society, 2011, $500
+{:h }
+
+**Student Travel Award**, School of Environment and Natural Resources, The Ohio State University, 2010, $350
+{:h }
+
+**Director's Associateship**, Ohio Agricultural Research and Development Center, The Ohio State University, 2010, $18,000
+{:h }
+
+**Environmental Fellowship**, College of Food, Agriculture, and Environmental Sciences, The Ohio State University, 2009, $20,000
+{:h }
+
+**University Fellowship**, The Ohio State University Graduate School, 2008, $15,072
+{:h }
+
+**WSO Grant**, Wisconsin Society for Ornithology, 2010, $500
+{:h }
+
+**Mini-grant**, School of Environment and Natural Resources, The Ohio State University, 2009, $100
+{:h }
+
+**Bernard J. TenBroek Excellence in Biology in Research Award**, Calvin College, 2005, $800
+{:h }
+
+**John and Lillian Van Oosten Natural Sciences Scholarship**, Calvin College, 2004, $2,500
+{:h }
+
+**John A. Bolt Memorial Biochemistry Scholarship**, Calvin College, 2004, $2,850
+{:h }
+
+**National Merit Scholarship**, Calvin College, 2001-2005, $34,000
 {:h }
 
 <br>
 
-# Peer-reviewed articles
+# Honors
 
-Battey, C.J., Linck, E.B., Epperly, K.L., French, C., **Slager, D.L.**, Sykes, P.W. Jr., and J. Klicka. In press. [A migratory divide in the Painted Bunting (*Passerina ciris*)](http://biorxiv.org/content/biorxiv/early/2017/05/05/132910.full.pdf). *The American Naturalist*.
+**Best Student Talk Award**, Society of Canadian Ornithologists/Société des Ornithologistes du Canada, 2015
 {:h }
 
-**Slager, D.L.**, Rodewald, P.G., and P.J. Heglund. 2015. [Experimental effects of habitat type on the movement ecology and stopover duration of spring migrant Northern Waterthrushes (*Parkesia noveboracensis*)](http://dx.doi.org/10.1007/s00265-015-1993-y). *Behavioral Ecology and Sociobiology* 69:1809-1819.
+[**1000 Word Challenge Winner**](https://scipos.blogspot.com/2015/04/1000-word-challenge-dynasty-of-biology.html), Burke Museum of Natural History and Culture/Seattle Forum on Science Ethics and Policy, 2015
 {:h }
 
-**Slager, D.L.** and P.G. Rodewald. 2015. [Disjunct nocturnal roosting by a Yellow-rumped Warbler (*Setophaga coronata*) during migratory stopover](http://dx.doi.org/10.1676/14-038.1). *Wilson Journal of Ornithology* 127:109-114.
+**1000 Word Challenge Winner**, Burke Museum of Natural History and Culture/Seattle Forum on Science Ethics and Policy, 2014
 {:h }
 
-**Slager, D.L.** and J. Klicka. 2014. [Polyphyly of *Hylophilus* and a new genus for the Tawny-crowned Greenlet (Aves: Passeriformes: Vireonidae)](http://dx.doi.org/10.11646/zootaxa.3884.2.8). *Zootaxa* 3884:194-196.
-{:h }
-
-**Slager, D.L.**, Battey, C.J., Bryson, R.W. Jr., Voelker, G. and J. Klicka. 2014. [A multilocus phylogeny of a major New World avian radiation: The Vireonidae](http://dx.doi.org/10.1016/j.ympev.2014.07.021). *Molecular Phylogenetics and Evolution* 80:95-104.
-{:h }
-
-**Slager, D.L.** and J. Klicka. 2014. [A new genus for the American Tree Sparrow (Aves: Passeriformes: Passerellidae)](http://dx.doi.org/10.11646/zootaxa.3821.3.9). *Zootaxa* 3821:398-400.
-{:h }
-
-**Slager, D.L.**, McDermott, M.E., and A.D. Rodewald. 2012. [Kleptoparasitism of nesting material from a Red-faced Spinetail (*Cranioleuca erythrops*) nest site](http://dx.doi.org/10.1676/1559-4491-124.4.812). *Wilson Journal of Ornithology* 124:812-815
-{:h }
-
-Bush, S.E., Harbison, C.W., **Slager, D.L.**, Peterson, A.T., Price, R.D., and D.H. Clayton. 2009. [Geographic Variation in the Community Structure of Lice on Western Scrub-Jays](http://dx.doi.org/10.1645/GE-1591.1). *Journal of Parasitology* 95:10-13
+**Undergraduate Award in Analytical Chemistry**, Calvin College, 2004
 {:h }
 
 <br>
 
-# Invited presentations
+# Teaching
 
-**Slager, D.L.** 2017. Unlocking the genomes of museum specimens to address longstanding questions in avian biology. Thompson Hall Science and Mathematics Seminar, University of Puget Sound, Tacoma, Washington (talk)
+**Teaching Assistant and Guest Lecturer**, Foundations in Evolution and Systematics (BIOL 354), University of Washington, Autumn 2017. Instructor: Dr. Jon Herron
+{:h }
+
+**Teaching Assistant and Co-instructor**, Ecology and Conservation of Marine Birds and Mammals (FHL/FISH 492), University of Washington/Friday Harbor Labs, Summer 2017. Instructors: Drs. Eric Andersen and W. Breck Tyler
+{:h }
+
+**Teaching Assistant**, Vertebrate Biology (BIOL 452), University of Washington, Spring 2017. Instructor: Dr. Karen Petersen
+{:h }
+
+**Teaching Assistant**, Introductory Biology (BIOL 180), University of Washington, Autumn 2016. Instructors: Drs. Jake Cooper and Scott Freeman
+{:h }
+
+**Teaching Assistant and Co-instructor**, Ecology and Conservation of Marine Birds and Mammals (FHL/FISH 492), University of Washington/Friday Harbor Labs, Summer 2016. Instructors: Drs. Eric Andersen and W. Breck Tyler
+{:h }
+
+**Teaching Assistant**, Fundamentals of Genetics and Genomics (GENOME 361), University of Washington, Spring 2016. Instructors: Drs. Maitreya Dunham and Leo Pallanck
+{:h }
+
+**Teaching Assistant**, DNA and Evolution (HONORS 221), University of Washington, Winter 2016. Instructor: Dr. Jon Herron
+{:h }
+
+**Teaching Assistant, Co-instructor, and Guest Lecturer**, Foundations in Evolution and Systematics (BIOL 354), University of Washington, Winter 2016. Instructor: Dr. Jon Herron
+{:h }
+
+**Teaching Assistant**, Foundations in Evolution and Systematics (BIOL 354), University of Washington, Autumn 2015. Instructor: Dr. Jon Herron
+{:h }
+
+**Teaching Assistant**, Ecology and Conservation of Marine Birds and Mammals (FHL/FISH 492), University of Washington/Friday Harbor Labs, Summer 2015. Instructors: Drs. Eric Andersen and W. Breck Tyler
+{:h }
+
+**Teaching Assistant**, Ornithology (BIOL 444), University of Washington, Spring 2015. Instructor: Dr. John Klicka
+{:h }
+
+**Teaching Assistant**, Foundations in Ecology (BIOL 356), University of Washington, Winter 2015. Instructor: Dr. Steve Kroiss
+{:h }
+
+**Teaching Assistant and Guest Lecturer**, Foundations in Evolution and Systematics (BIOL 354), University of Washington, Autumn 2014. Instructor: Dr. Jon Herron
+{:h }
+
+**Teaching Assistant**, Plant Ecology (BIOL 471), University of Washington, Spring 2014. Instructor: Dr. Cynthia Chang
+{:h }
+
+**Teaching Assistant**, Introductory Biology (BIOL 200), University of Washington, Winter 2014. Instructor: Dr. Scott Freeman
+{:h }
+
+**Teaching Assistant**, Introductory Biology (BIOL 180), University of Washington, Autumn 2013. Instructor: Dr. Scott Freeman
+{:h }
+
+**Guest Lecturer and Guest Lab Instructor**, Research in Avian Ecology (ENR 231), The Ohio State University, 2011. Instructor: Dr. Amanda Rodewald
+{:h }
+
+**Guest Lecturer and Guest Lab Instructor**, Research in Avian Ecology (ENR 231), The Ohio State University, 2010. Instructor: Dr. Amanda Rodewald
+{:h }
+
+**Teaching Assistant and Course Co-designer**, Advanced Field Ornithology (BIOL 5395; Field Course), University of Utah, Spring 2007. Instructor: Dr. Dale Clayton
+{:h }
+
+**Teaching Assistant, Guest Lecturer, and Field Trip Co-leader**, Ornithology (BIOL 5385), University of Utah, Autumn 2006. Instructor: Dr. Dale Clayton
 {:h }
 
 <br>
 
-# Contributed presentations
+# Collaborators
 
-**Slager, D.L.** 2017. Genomic insights into the evolutionary history of the Northwestern Crow. FHL Seminar, University of Washington Friday Harbor Labs, Friday Harbor, Washington (talk)
-{:h }
-
-Battey, C.J., Linck, E.B., Epperly, K.L., French, C., **Slager, D.L.**, Sykes, P.W. Jr., Klicka, J. 2017. A migratory divide in the Painted Bunting (*Passerina ciris*). Rocky Mountain Biological Laboratory, Graduate Student Talks, Gothic, Colorado (talk)
-{:h }
-
-**Slager, D.L.**, Epperly, K.L., Ha, R.R., Rohwer, S., Van Hemert, C., and J. Klicka. 2017. Genomic insights into the evolutionary history of the Northwestern Crow. Society for the Study of Evolution, Society of of Systematic Biologists, and American Society of Naturalists Joint Meeting (Evolution 2017), Portland, Oregon (talk)
-{:h }
-
-Battey, C.J., Linck, E.B., Epperly, K.L., French, C., **Slager, D.L.**, Sykes, P.W. Jr., Klicka, J. 2017. A migratory divide in the Painted Bunting (*Passerina ciris*). Society for the Study of Evolution, Society of of Systematic Biologists, and American Society of Naturalists Joint Meeting (Evolution 2017), Portland, Oregon (poster)
-{:h }
-
-**Slager, D.L.**, Epperly, K.L., Ha, R.R., Rohwer, S., Van Hemert, C., and J. Klicka. 2017. Counting crows: a genomic look inside Seattle's taxonomic black box. 14th Annual Biology Graduate Student Symposium, University of Washington, Seattle, Washington (talk)
-{:h }
-
-Olmstead, R.G., Lu-Irving, P., Frost, L. and **D.L. Slager**. 2016. Patterns of interior continental disjunctions, examples from Lamiales, and an exploration of possible mechanisms. Botany 2016 Conference, Savannah, Georgia (talk)
-{:h }
-
-**Slager, D.L.**, Epperly, K.L., Rohwer, S. and J. Klicka. 2015. A phylogenomic assessment of introgression and species limits in the American/Northwestern Crow complex. Wilson Ornithological Society, Association of Field Ornithologists, and Society of Canadian Ornithologists Joint Meeting, Wolfville, Nova Scotia, Canada (talk; best student talk award)
-{:h }
-
-**Slager, D.L.**, Epperly, K.L., Rohwer, S. and J. Klicka. 2015. A phylogenomic assessment of introgression and species limits in the American/Northwestern Crow complex. Society for the Study of Evolution, Society of of Systematic Biologists, and American Society of Naturalists Joint Meeting (Evolution 2015), Guarujá, São Paulo, Brazil (talk)
-{:h }
-
-**Slager, D.L.**, Battey, C.J., Bryson, R.W. Jr., Voelker, G., and J. Klicka. 2014. A multilocus phylogeny of a major New World radiation: The Vireonidae. American Ornithologists' Union, Cooper Ornithological Society, and Society of Canadian Ornithologists Joint Meeting, Estes Park, Colorado (talk; session moderator)
-{:h }
-
-Battey, C.J., **Slager, D.L.**, Bryson, R.W. Jr., and J. Klicka. 2014. Paraphyly and migration in the Red-eyed Vireo superspecies. American Ornithologists' Union, Cooper Ornithological Society, and Society of Canadian Ornithologists Joint Meeting, Estes Park, Colorado (talk)
-{:h }
-
-**Slager, D.L.** 2014. A molecular phylogeny of the Vireos: New World colonization, basal diversification, and cryptic diversity. 11th Annual Biology Graduate Student Symposium, University of Washington, Seattle, Washington (talk)
-{:h }
-
-**Slager, D.L.**, Rodewald, P.G., and P.J. Heglund. 2012. Habitat-dependent stopover duration in the Northern Waterthrush (*Parkesia noveboracensis*). 5th North American Ornithological Conference, Vancouver, British Columbia, Canada (talk)
-{:h }
-
-**Slager, D.L.**, Rodewald, P.G., and P.J. Heglund. 2011. Stopover duration and departure decisions of Northern Waterthrush and Yellow-rumped Warbler during spring migration. American Ornithologists' Union Annual Conference, Jacksonville, Florida (talk)
-{:h }
-
-**Slager, D.L.**, Rodewald, P.G., and P.J. Heglund. 2011. Movement ecology of Northern Waterthrush (*Parkesia noveboracensis*) during spring migratory stopover. Association of Field Ornithologists/Cooper Ornithological Society/Wilson Ornithological Society Joint Meeting, Kearney, Nebraska (talk)
-{:h }
-
-**Slager, D.L.**, Rodewald, P.G., and P.J. Heglund. 2010. Movements and habitat use of Northern Waterthrushes and Yellow-rumped Warblers during spring migratory stopover along the Upper Mississippi River. American Ornithologists' Union Annual Conference, San Diego, California (poster)
-{:h }
-
-**Slager, D.L.**, Harbison, C.W., and D.H. Clayton. 2004. Fans, flies, and hitchiking lice: The importance of phoresis in population dynamics. University of Utah Research Experience for Undergraduates Summer Symposium, Salt Lake City, Utah (poster)
-{:h }
-
-Preston, R.L., Clifford, R.J., Thompson, J.A., **Slager, D.L.**, Petersen, C.W. and G.W. Kidder. 2003. Changes in apparent CFTR mRNA expression in developing killifish oocytes. Annual Meeting of the Society for Integrative and Comparative Biology, New Orleans, Louisiana (poster)
-{:h }
-
-<br>
-
-# Miscellaneous publications
-
-**Slager, D.L.** 2011. [Movement ecology and stopover duration of Northern Waterthrush and Yellow-rumped Warbler during spring migration along the Upper Mississippi River](http://rave.ohiolink.edu/etdc/view?acc_num=osu1312987166). Master's Thesis. The Ohio State University, Columbus, Ohio
-{:h }
-
-Preston, R.L., Clifford, R.J., Thompson, J.A., **Slager, D.L.**, Petersen, C.W., and G.W. Kidder. 2004. [CFTR mRNA expression in developing *Fundulus heteroclitus* embryos](http://www.mdibl.org/documents/2004_Bulletin_000.pdf). *Bulletin of the Mount Desert Island Biological Laboratory* 43:25-27
-{:h }
-
-<br>
-
-# Species accounts in *Neotropical Birds Online*
-\*mentored undergraduate co-author for course-based research
-
-Smith, C.* and **D.L. Slager**. 2016. [Striped Sparrow (*Oriturus superciliosus*)](http://neotropical.birds.cornell.edu/portal/species/overview?p_p_spp=653356) in T.S. Schulenberg, ed. *Neotropical Birds Online*. Cornell Lab of Ornithology, Ithaca, New York
-{:h }
-
-Quick, D.R.* and **D.L. Slager**. 2015. [White-browed Brushfinch (*Arremon torquatus*)](http://neotropical.birds.cornell.edu/portal/species/overview?p_p_spp=648396) in T.S. Schulenberg, ed. *Neotropical Birds Online*. Cornell Lab of Ornithology, Ithaca, New York
-{:h }
-
-Voelker, K.N.* and **D.L. Slager**. 2015. [Olive Finch (*Arremon castaneiceps*)](http://neotropical.birds.cornell.edu/portal/species/overview?p_p_spp=648556) in T.S. Schulenberg, ed. *Neotropical Birds Online*. Cornell Lab of Ornithology, Ithaca, New York
-{:h }
-
-Murray, D.S.* and **D.L. Slager**. 2015. [Jamaican Vireo (*Vireo modestus*)](http://neotropical.birds.cornell.edu/portal/species/overview?p_p_spp=507116) in T.S. Schulenberg, ed. *Neotropical Birds Online*. Cornell Lab of Ornithology, Ithaca, New York
-{:h }
-
-Kim, H.J. and **D.L. Slager**. 2015. [Zapata Sparrow (*Torreornis inexpectata*)](http://neotropical.birds.cornell.edu/portal/species/overview?p_p_spp=653516) in T.S. Schulenberg, ed. *Neotropical Birds Online*. Cornell Lab of Ornithology, Ithaca, New York
-{:h }
-
-Olsen, D.G.* and **D.L. Slager**. 2015. [Golden-winged Sparrow (*Arremon schlegeli*)](http://neotropical.birds.cornell.edu/portal/species/overview?p_p_spp=647596) in T.S. Schulenberg, ed. *Neotropical Birds Online*. Cornell Lab of Ornithology, Ithaca, New York
-{:h }
-
-Gunningham, H.R.* and **D.L. Slager**. 2015. [Saffron-billed Sparrow (*Arremon flavirostris*)](http://neotropical.birds.cornell.edu/portal/species/overview?p_p_spp=647276) in T.S. Schulenberg, ed. *Neotropical Birds Online*. Cornell Lab of Ornithology, Ithaca, New York
-{:h }
-
-**Slager, D.L.** 2011. [Rufous-naped Greenlet (*Hylophilus semibrunneus*)](http://neotropical.birds.cornell.edu/portal/species/overview?p_p_spp=512236) in T.S. Schulenberg, ed. *Neotropical Birds Online*. Cornell Lab of Ornithology, Ithaca, New York
-{:h }
-
-<br>
-
-# Species accounts in *The Second Atlas of Breeding Birds in Ohio*
-
-**Slager, D.L.** 2016. Gadwall (*Anas strepera*) in Rodewald, P.G., Shumar, M.B., Boone, A.T., Slager, D.L. and J. McCormac, eds. pp. 70-71 in [*The Second Atlas of Breeding Birds in Ohio*](http://www.psupress.org/books/titles/978-0-271-07127-5.html). Penn State University Press, University Park, Pennsylvania
-{:h }
-
-**Slager, D.L.** 2016. Blue-winged Teal (*Anas discors*) in Rodewald, P.G., Shumar, M.B., Boone, A.T., Slager, D.L. and J. McCormac, eds. pp. 78-79 in [*The Second Atlas of Breeding Birds in Ohio*](http://www.psupress.org/books/titles/978-0-271-07127-5.html). Penn State University Press, University Park, Pennsylvania
-{:h }
-
-**Slager, D.L.** 2016. Northern Shoveler (*Anas clypeata*) in Rodewald, P.G., Shumar, M.B., Boone, A.T., Slager, D.L. and J. McCormac, eds. pp. 80-81 in [*The Second Atlas of Breeding Birds in Ohio*](http://www.psupress.org/books/titles/978-0-271-07127-5.html). Penn State University Press, University Park, Pennsylvania
-{:h }
-
-**Slager, D.L.** 2016. Great Egret (*Ardea alba*) in Rodewald, P.G., Shumar, M.B., Boone, A.T., Slager, D.L. and J. McCormac, eds. pp. 116-117 in [*The Second Atlas of Breeding Birds in Ohio*](http://www.psupress.org/books/titles/978-0-271-07127-5.html). Penn State University Press, University Park, Pennsylvania
-{:h }
-
-**Slager, D.L.** 2016. Black-crowned Night-Heron (*Nycticorax nycticorax*) in Rodewald, P.G., Shumar, M.B., Boone, A.T., Slager, D.L. and J. McCormac, eds. pp. 126-127 in [*The Second Atlas of Breeding Birds in Ohio*](http://www.psupress.org/books/titles/978-0-271-07127-5.html). Penn State University Press, University Park, Pennsylvania
-{:h }
-
-**Slager, D.L.** 2016. Northern Harrier (*Circus cyaneus*) in Rodewald, P.G., Shumar, M.B., Boone, A.T., Slager, D.L. and J. McCormac, eds. pp. 140-141 in [*The Second Atlas of Breeding Birds in Ohio*](http://www.psupress.org/books/titles/978-0-271-07127-5.html). Penn State University Press, University Park, Pennsylvania
-{:h }
-
-**Slager, D.L.** 2016. Purple Gallinule (*Porphyrio martinicus*) in Rodewald, P.G., Shumar, M.B., Boone, A.T., Slager, D.L. and J. McCormac, eds. pp. 160-161 in [*The Second Atlas of Breeding Birds in Ohio*](http://www.psupress.org/books/titles/978-0-271-07127-5.html). Penn State University Press, University Park, Pennsylvania
-{:h }
-
-**Slager, D.L.** 2016. Sandhill Crane (*Grus canadensis*) in Rodewald, P.G., Shumar, M.B., Boone, A.T., Slager, D.L. and J. McCormac, eds. pp. 166-167 in [*The Second Atlas of Breeding Birds in Ohio*](http://www.psupress.org/books/titles/978-0-271-07127-5.html). Penn State University Press, University Park, Pennsylvania
-{:h }
-
-**Slager, D.L.** 2016. Spotted Sandpiper (*Actitis macularius*) in Rodewald, P.G., Shumar, M.B., Boone, A.T., Slager, D.L. and J. McCormac, eds. pp. 172-173 in [*The Second Atlas of Breeding Birds in Ohio*](http://www.psupress.org/books/titles/978-0-271-07127-5.html). Penn State University Press, University Park, Pennsylvania
-{:h }
-
-**Slager, D.L.** 2016. Ring-billed Gull (*Larus delawarensis*) in Rodewald, P.G., Shumar, M.B., Boone, A.T., Slager, D.L. and J. McCormac, eds. pp. 182-183 in [*The Second Atlas of Breeding Birds in Ohio*](http://www.psupress.org/books/titles/978-0-271-07127-5.html). Penn State University Press, University Park, Pennsylvania
-{:h }
-
-**Slager, D.L.** 2016. Great Horned Owl (*Bubo virginianus*) in Rodewald, P.G., Shumar, M.B., Boone, A.T., Slager, D.L. and J. McCormac, eds. pp. 204-205 in [*The Second Atlas of Breeding Birds in Ohio*](http://www.psupress.org/books/titles/978-0-271-07127-5.html). Penn State University Press, University Park, Pennsylvania
-{:h }
-
-**Slager, D.L.** 2016. Common Nighthawk (*Chordeiles minor*) in Rodewald, P.G., Shumar, M.B., Boone, A.T., Slager, D.L. and J. McCormac, eds. pp. 214-215 in [*The Second Atlas of Breeding Birds in Ohio*](http://www.psupress.org/books/titles/978-0-271-07127-5.html). Penn State University Press, University Park, Pennsylvania
-{:h }
-
-**Slager, D.L.** 2016. Belted Kingfisher (*Megaceryle alcyon*) in Rodewald, P.G., Shumar, M.B., Boone, A.T., Slager, D.L. and J. McCormac, eds. pp. 224-225 in [*The Second Atlas of Breeding Birds in Ohio*](http://www.psupress.org/books/titles/978-0-271-07127-5.html). Penn State University Press, University Park, Pennsylvania
-{:h }
-
-**Slager, D.L.** 2016. Downy Woodpecker (*Picoides pubescens*) in Rodewald, P.G., Shumar, M.B., Boone, A.T., Slager, D.L. and J. McCormac, eds. pp. 232-233 in [*The Second Atlas of Breeding Birds in Ohio*](http://www.psupress.org/books/titles/978-0-271-07127-5.html). Penn State University Press, University Park, Pennsylvania
-{:h }
-
-**Slager, D.L.** 2016. Great Crested Flycatcher (*Myiarchus crinitus*) in Rodewald, P.G., Shumar, M.B., Boone, A.T., Slager, D.L. and J. McCormac, eds. pp. 258-259 in [*The Second Atlas of Breeding Birds in Ohio*](http://www.psupress.org/books/titles/978-0-271-07127-5.html). Penn State University Press, University Park, Pennsylvania
-{:h }
-
-**Slager, D.L.** 2016. Blue Jay (*Cyanocitta cristata*) in Rodewald, P.G., Shumar, M.B., Boone, A.T., Slager, D.L. and J. McCormac, eds. pp. 276-277 in [*The Second Atlas of Breeding Birds in Ohio*](http://www.psupress.org/books/titles/978-0-271-07127-5.html). Penn State University Press, University Park, Pennsylvania
-{:h }
-
-**Slager, D.L.** 2016. Purple Martin (*Progne subis*) in Rodewald, P.G., Shumar, M.B., Boone, A.T., Slager, D.L. and J. McCormac, eds. pp. 284-285 in [*The Second Atlas of Breeding Birds in Ohio*](http://www.psupress.org/books/titles/978-0-271-07127-5.html). Penn State University Press, University Park, Pennsylvania
-{:h }
-
-**Slager, D.L.** 2016. Barn Swallow (*Hirundo rustica*) in Rodewald, P.G., Shumar, M.B., Boone, A.T., Slager, D.L. and J. McCormac, eds. pp. 294-295 in [*The Second Atlas of Breeding Birds in Ohio*](http://www.psupress.org/books/titles/978-0-271-07127-5.html). Penn State University Press, University Park, Pennsylvania
-{:h }
-
-**Slager, D.L.** 2016. Brown Creeper (*Certhia americana*) in Rodewald, P.G., Shumar, M.B., Boone, A.T., Slager, D.L. and J. McCormac, eds. pp. 306-307 in [*The Second Atlas of Breeding Birds in Ohio*](http://www.psupress.org/books/titles/978-0-271-07127-5.html). Penn State University Press, University Park, Pennsylvania
-{:h }
-
-**Slager, D.L.** 2016. House Wren (*Troglodytes aedon*) in Rodewald, P.G., Shumar, M.B., Boone, A.T., Slager, D.L. and J. McCormac, eds. pp. 308-309 in [*The Second Atlas of Breeding Birds in Ohio*](http://www.psupress.org/books/titles/978-0-271-07127-5.html). Penn State University Press, University Park, Pennsylvania
-{:h }
-
-**Slager, D.L.** 2016. Sedge Wren (*Cistothorus platensis*) in Rodewald, P.G., Shumar, M.B., Boone, A.T., Slager, D.L. and J. McCormac, eds. pp. 312-313 in [*The Second Atlas of Breeding Birds in Ohio*](http://www.psupress.org/books/titles/978-0-271-07127-5.html). Penn State University Press, University Park, Pennsylvania
-{:h }
-
-**Slager, D.L.** 2016. Wood Thrush (*Hylocichla mustelina*) in Rodewald, P.G., Shumar, M.B., Boone, A.T., Slager, D.L. and J. McCormac, eds. pp. 330-331 in [*The Second Atlas of Breeding Birds in Ohio*](http://www.psupress.org/books/titles/978-0-271-07127-5.html). Penn State University Press, University Park, Pennsylvania
-{:h }
-
-**Slager, D.L.** 2016. Cedar Waxwing (*Bombycilla cedrorum*) in Rodewald, P.G., Shumar, M.B., Boone, A.T., Slager, D.L. and J. McCormac, eds. pp. 342-343 in [*The Second Atlas of Breeding Birds in Ohio*](http://www.psupress.org/books/titles/978-0-271-07127-5.html). Penn State University Press, University Park, Pennsylvania
-{:h }
-
-**Slager, D.L.** 2016. Northern Waterthrush (*Parkesia noveboracensis*) in Rodewald, P.G., Shumar, M.B., Boone, A.T., Slager, D.L. and J. McCormac, eds. pp. 350-351 in [*The Second Atlas of Breeding Birds in Ohio*](http://www.psupress.org/books/titles/978-0-271-07127-5.html). Penn State University Press, University Park, Pennsylvania
-{:h }
-
-**Slager, D.L.** 2016. Mourning Warbler (*Geothlypis philadelphia*) in Rodewald, P.G., Shumar, M.B., Boone, A.T., Slager, D.L. and J. McCormac, eds. pp. 364-365 in [*The Second Atlas of Breeding Birds in Ohio*](http://www.psupress.org/books/titles/978-0-271-07127-5.html). Penn State University Press, University Park, Pennsylvania
-{:h }
-
-**Slager, D.L.** 2016. American Redstart (*Setophaga ruticilla*) in Rodewald, P.G., Shumar, M.B., Boone, A.T., Slager, D.L. and J. McCormac, eds. pp. 372-373 in [*The Second Atlas of Breeding Birds in Ohio*](http://www.psupress.org/books/titles/978-0-271-07127-5.html). Penn State University Press, University Park, Pennsylvania
-{:h }
-
-**Slager, D.L.** 2016. Chipping Sparrow (*Spizella passerina*) in Rodewald, P.G., Shumar, M.B., Boone, A.T., Slager, D.L. and J. McCormac, eds. pp. 402-403 in [*The Second Atlas of Breeding Birds in Ohio*](http://www.psupress.org/books/titles/978-0-271-07127-5.html). Penn State University Press, University Park, Pennsylvania
-{:h }
-
-**Slager, D.L.** 2016. Vesper Sparrow (*Poocetes gramineus*) in Rodewald, P.G., Shumar, M.B., Boone, A.T., Slager, D.L. and J. McCormac, eds. pp. 408-409 in [*The Second Atlas of Breeding Birds in Ohio*](http://www.psupress.org/books/titles/978-0-271-07127-5.html). Penn State University Press, University Park, Pennsylvania
-{:h }
-
-**Slager, D.L.** 2016. Savannah Sparrow (*Passerculus sandwichensis*) in Rodewald, P.G., Shumar, M.B., Boone, A.T., Slager, D.L. and J. McCormac, eds. pp. 412-413 in [*The Second Atlas of Breeding Birds in Ohio*](http://www.psupress.org/books/titles/978-0-271-07127-5.html). Penn State University Press, University Park, Pennsylvania
-{:h }
-
-**Slager, D.L.** 2016. Brown-headed Cowbird (*Molothrus ater*) in Rodewald, P.G., Shumar, M.B., Boone, A.T., Slager, D.L. and J. McCormac, eds. pp. 450-451 in [*The Second Atlas of Breeding Birds in Ohio*](http://www.psupress.org/books/titles/978-0-271-07127-5.html). Penn State University Press, University Park, Pennsylvania
-{:h }
+**C.J. Battey** (University of Washington), 
+**Aaron T. Boone** (Ohio State University), 
+**Robert W. Bryson, Jr.** (University of Washington), 
+**Sarah E. Bush** (University of Utah), 
+**Dale H. Clayton** (University of Utah), 
+**Kevin L. Epperly** (University of Washington), 
+**Cooper French** (University of Washington), 
+**Renee R. Ha** (University of Washington), 
+**Christopher W. Harbison** (Sienna College), 
+**Patricia J. Heglund** (US Fish and Wildlife Service), 
+**John Klicka** (University of Washington), 
+**Ethan B. Linck** (University of Washington), 
+**Jim S. McCormac** (Ohio Division of Wildlife), 
+**Molly E. McDermott** (Ohio State University), 
+**A. Townsend Peterson** (University of Kansas), 
+**Roger D. Price** (University of Minnesota), 
+**Amanda D. Rodewald** (Cornell University), 
+**Paul G. Rodewald** (Cornell University), 
+**Sievert Rohwer** (University of Washington), 
+**Matthew B. Shumar** (Ohio State University), 
+**Paul W. Sykes, Jr.** (USGS Patuxent Wildlife Research Center), 
+**Caroline Van Hemert** (US Geological Survey), 
+**Gary Voelker** (Texas A&M University)
