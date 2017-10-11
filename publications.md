@@ -15,29 +15,29 @@ Hanging indent definition {:h } https://kramdown.gettalong.org/syntax.html#attri
 
 # Book
 
-Rodewald, P.G., Shumar, M.B., Boone, A.T., **Slager, D.L.**, and J. McCormac. 2016. [*The Second Atlas of Breeding Birds in Ohio*](http://www.psupress.org/books/titles/978-0-271-07127-5.html). Penn State University Press, University Park, Pennsylvania 578 pp.
+Rodewald, P.G., Shumar, M.B., Boone, A.T., **Slager, D.L.**, and J. McCormac. 2016. [*The Second Atlas of Breeding Birds in Ohio*](http://www.psupress.org/books/titles/978-0-271-07127-5.html). Penn State University Press, University Park, Pennsylvania 578 pp
 {:h }
 
 <br>
 
 # Peer-reviewed articles
 
-Battey, C.J., Linck, E.B., Epperly, K.L., French, C., **Slager, D.L.**, Sykes, P.W. Jr., and J. Klicka. In press. [A migratory divide in the Painted Bunting (*Passerina ciris*)](http://biorxiv.org/content/biorxiv/early/2017/05/05/132910.full.pdf). *The American Naturalist*.
+Battey, C.J., Linck, E.B., Epperly, K.L., French, C., **Slager, D.L.**, Sykes, P.W. Jr., and J. Klicka. In press. [A migratory divide in the Painted Bunting (*Passerina ciris*)](http://biorxiv.org/content/biorxiv/early/2017/05/05/132910.full.pdf). *The American Naturalist*
 {:h }
 
-**Slager, D.L.**, Rodewald, P.G., and P.J. Heglund. 2015. [Experimental effects of habitat type on the movement ecology and stopover duration of spring migrant Northern Waterthrushes (*Parkesia noveboracensis*)](http://dx.doi.org/10.1007/s00265-015-1993-y). *Behavioral Ecology and Sociobiology* 69:1809-1819.
+**Slager, D.L.**, Rodewald, P.G., and P.J. Heglund. 2015. [Experimental effects of habitat type on the movement ecology and stopover duration of spring migrant Northern Waterthrushes (*Parkesia noveboracensis*)](http://dx.doi.org/10.1007/s00265-015-1993-y). *Behavioral Ecology and Sociobiology* 69:1809-1819
 {:h }
 
-**Slager, D.L.** and P.G. Rodewald. 2015. [Disjunct nocturnal roosting by a Yellow-rumped Warbler (*Setophaga coronata*) during migratory stopover](http://dx.doi.org/10.1676/14-038.1). *Wilson Journal of Ornithology* 127:109-114.
+**Slager, D.L.** and P.G. Rodewald. 2015. [Disjunct nocturnal roosting by a Yellow-rumped Warbler (*Setophaga coronata*) during migratory stopover](http://dx.doi.org/10.1676/14-038.1). *Wilson Journal of Ornithology* 127:109-114
 {:h }
 
-**Slager, D.L.** and J. Klicka. 2014. [Polyphyly of *Hylophilus* and a new genus for the Tawny-crowned Greenlet (Aves: Passeriformes: Vireonidae)](http://dx.doi.org/10.11646/zootaxa.3884.2.8). *Zootaxa* 3884:194-196.
+**Slager, D.L.** and J. Klicka. 2014. [Polyphyly of *Hylophilus* and a new genus for the Tawny-crowned Greenlet (Aves: Passeriformes: Vireonidae)](http://dx.doi.org/10.11646/zootaxa.3884.2.8). *Zootaxa* 3884:194-196
 {:h }
 
-**Slager, D.L.**, Battey, C.J., Bryson, R.W. Jr., Voelker, G. and J. Klicka. 2014. [A multilocus phylogeny of a major New World avian radiation: The Vireonidae](http://dx.doi.org/10.1016/j.ympev.2014.07.021). *Molecular Phylogenetics and Evolution* 80:95-104.
+**Slager, D.L.**, Battey, C.J., Bryson, R.W. Jr., Voelker, G. and J. Klicka. 2014. [A multilocus phylogeny of a major New World avian radiation: The Vireonidae](http://dx.doi.org/10.1016/j.ympev.2014.07.021). *Molecular Phylogenetics and Evolution* 80:95-104
 {:h }
 
-**Slager, D.L.** and J. Klicka. 2014. [A new genus for the American Tree Sparrow (Aves: Passeriformes: Passerellidae)](http://dx.doi.org/10.11646/zootaxa.3821.3.9). *Zootaxa* 3821:398-400.
+**Slager, D.L.** and J. Klicka. 2014. [A new genus for the American Tree Sparrow (Aves: Passeriformes: Passerellidae)](http://dx.doi.org/10.11646/zootaxa.3821.3.9). *Zootaxa* 3821:398-400
 {:h }
 
 **Slager, D.L.**, McDermott, M.E., and A.D. Rodewald. 2012. [Kleptoparasitism of nesting material from a Red-faced Spinetail (*Cranioleuca erythrops*) nest site](http://dx.doi.org/10.1676/1559-4491-124.4.812). *Wilson Journal of Ornithology* 124:812-815
