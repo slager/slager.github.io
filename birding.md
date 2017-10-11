@@ -2,7 +2,7 @@
 layout: page
 title: Birding
 permalink: /birding
-navorder: 4
+navorder: 5
 ---
 
 This is text from birding.md --> This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
