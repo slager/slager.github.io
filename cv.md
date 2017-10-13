@@ -161,6 +161,12 @@ See the [Publications](https://slager.github.io/pubs) page
 **John A. Bolt Memorial Biochemistry Scholarship**, Calvin College, 2004, $2,850
 {:h }
 
+**NSF Research Experience for Undergraduates Fellowship**, National Science Foundation and University of Utah Department of Biology, 2004
+{:h }
+
+**NSF Research Experience for Undergraduates Fellowship**, National Science Foundation and Mount Desert Island Biological Laboratory, 2003
+{:h }
+
 **National Merit Scholarship**, Calvin College, 2001-2005, $34,000
 {:h }
 
