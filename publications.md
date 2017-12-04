@@ -67,6 +67,9 @@ Preston, R.L., Clifford, R.J., Thompson, J.A., **Slager, D.L.**, Petersen, C.W.,
 
 # Contributed presentations
 
+**Slager, D.L.** 2017. [Genomic insights into the evolutionary history of the Northwestern Crow](https://twitter.com/dlslager/status/935629629502775296). British Ornithologists' Union Twitter Conference [#BOU17TC](https://www.bou.org.uk/bou17tc/) (twitter presentation)
+{:h }
+
 **Slager, D.L.** 2017. Genomic insights into the evolutionary history of the Northwestern Crow. FHL Seminar, University of Washington Friday Harbor Labs, Friday Harbor, Washington (talk)
 {:h }
 
