@@ -22,7 +22,7 @@ Rodewald, P.G., Shumar, M.B., Boone, A.T., **Slager, D.L.**, and J. McCormac. 20
 
 # Peer-reviewed articles
 
-Battey, C.J., Linck, E.B., Epperly, K.L., French, C., **Slager, D.L.**, Sykes, P.W. Jr., and J. Klicka. 2017. [A migratory divide in the Painted Bunting (*Passerina ciris*)](https://doi.org/10.1086/695439). *The American Naturalist*
+Battey, C.J., Linck, E.B., Epperly, K.L., French, C., **Slager, D.L.**, Sykes, P.W. Jr., and J. Klicka. 2018. [A migratory divide in the Painted Bunting (*Passerina ciris*)](https://doi.org/10.1086/695439). *The American Naturalist* 191:
 {:h }
 
 **Slager, D.L.**, Rodewald, P.G., and P.J. Heglund. 2015. [Experimental effects of habitat type on the movement ecology and stopover duration of spring migrant Northern Waterthrushes (*Parkesia noveboracensis*)](http://dx.doi.org/10.1007/s00265-015-1993-y). *Behavioral Ecology and Sociobiology* 69:1809-1819
