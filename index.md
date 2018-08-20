@@ -2,4 +2,4 @@
 layout: default
 ---
 
-Thanks for checking in! I'm in the process of moving content here from my [old Wordpress website](https://students.washington.edu/slager).
+Thanks for checking in! Hopefully you'll find what you're looking for in the navigation menu.
