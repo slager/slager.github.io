@@ -95,6 +95,13 @@ See the [Publications](https://slager.github.io/pubs) page
 
 # Grants & Awards
 
+**Wycoff Award**, University of Washington Department of Biology, 2018, $3,000
+{:h }
+
+**Travel Award**, American Ornithological Society, 2018, $400
+
+**Travel Award**, Graduate School Fund for Excellence and Innovation, University of Washington, 2018, $300
+
 **NSF Doctoral Dissertation Improvement Grant**, National Science Foundation, 2016, $20,085
 {:h }
 
