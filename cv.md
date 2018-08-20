@@ -190,6 +190,18 @@ See the [Publications](https://slager.github.io/pubs) page
 
 # Teaching
 
+**Teaching Assistant**, Foundations in Evolution and Systematics (BIOL 354), University of Washington, Autumn 2018. Instructor: Dr. Jon Herron
+{:h }
+
+**Teaching Assistant and Co-instructor**, Ecology and Conservation of Marine Birds and Mammals (FHL/FISH 492), University of Washington/Friday Harbor Labs, Summer 2018. Instructors: Drs. Eric Andersen and W. Breck Tyler
+{:h }
+
+**Teaching Assistant**, Introductory Biology (BIOL 180), University of Washington, Winter 2018. Instructor: Dr. Jon Herron
+{:h }
+
+**Teaching Assistant**, Introductory Biology (BIOL 180), University of Washington, Winter 2018. Instructor: Dr. Katie Dobkowski
+{:h }
+
 **Teaching Assistant and Guest Lecturer**, Foundations in Evolution and Systematics (BIOL 354), University of Washington, Autumn 2017. Instructor: Dr. Jon Herron
 {:h }
 
