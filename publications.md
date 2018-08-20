@@ -67,6 +67,12 @@ Preston, R.L., Clifford, R.J., Thompson, J.A., **Slager, D.L.**, Petersen, C.W.,
 
 # Contributed presentations
 
+**Slager, D.L.**, Epperly, K.L., Klicka, J. 2018. Characterizing hybridization between Northwestern and American Crows using genetic data from 150 years of museum specimens. International Ornithological Congress, Vancouver, British Columbia, Canada (poster)
+{:h }
+
+**Slager, D.L.**, Epperly, K.L., Klicka, J. 2018. Characterizing hybridization between Northwestern and American Crows using genetic data from 150 years of museum specimens. American Ornithological Society Conference, Tucson, Arizona (talk)
+{:h }
+
 **Slager, D.L.** 2017. [Genomic insights into the evolutionary history of the Northwestern Crow](https://twitter.com/dlslager/status/935629629502775296). British Ornithologists' Union Twitter Conference [#BOU17TC](https://www.bou.org.uk/bou17tc/) (twitter presentation)
 {:h }
 
