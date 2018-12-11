@@ -20,6 +20,13 @@ Rodewald, P.G., Shumar, M.B., Boone, A.T., **Slager, D.L.**, and J. McCormac. 20
 
 <br>
 
+# Preprints
+
+**Slager, D.L.**, Epperly, K.L., Ha, R.R., Rohwer, S., Wood, C., Van Hemert, C., and J. Klicka. 2018. [Cryptic and extensive hybridization between ancient lineages of American crows](https://doi.org/10.1101/491654). *bioRxiv*:491654
+{:h }
+
+<br>
+
 # Peer-reviewed articles
 
 Battey, C.J., Linck, E.B., Epperly, K.L., French, C., **Slager, D.L.**, Sykes, P.W. Jr., and J. Klicka. 2018. [A migratory divide in the Painted Bunting (*Passerina ciris*)](https://doi.org/10.1086/695439). *The American Naturalist* 191:259-268
