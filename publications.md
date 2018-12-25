@@ -13,13 +13,6 @@ Hanging indent definition {:h } https://kramdown.gettalong.org/syntax.html#attri
 ## Publications
 {: align="center"}
 
-# Book
-
-Rodewald, P.G., Shumar, M.B., Boone, A.T., **Slager, D.L.**, and J. McCormac. 2016. [*The Second Atlas of Breeding Birds in Ohio*](http://www.psupress.org/books/titles/978-0-271-07127-5.html). Penn State University Press, University Park, Pennsylvania 578 pp
-{:h }
-
-<br>
-
 # Preprints
 
 **Slager, D.L.**, Epperly, K.L., Ha, R.R., Rohwer, S., Wood, C., Van Hemert, C., and J. Klicka. 2018. [Cryptic and extensive hybridization between ancient lineages of American crows](https://doi.org/10.1101/491654). *bioRxiv*:491654
@@ -52,6 +45,18 @@ Battey, C.J., Linck, E.B., Epperly, K.L., French, C., **Slager, D.L.**, Sykes, P
 
 Bush, S.E., Harbison, C.W., **Slager, D.L.**, Peterson, A.T., Price, R.D., and D.H. Clayton. 2009. [Geographic Variation in the Community Structure of Lice on Western Scrub-Jays](http://dx.doi.org/10.1645/GE-1591.1). *Journal of Parasitology* 95:10-13
 {:h }
+
+<br>
+
+# Books
+
+Rodewald, P.G., Shumar, M.B., Boone, A.T., **Slager, D.L.**, and J. McCormac. 2016. [*The Second Atlas of Breeding Birds in Ohio*](http://www.psupress.org/books/titles/978-0-271-07127-5.html). Penn State University Press, University Park, Pennsylvania 578 pp
+{:h }
+
+  <a href="http://www.psupress.org/books/titles/978-0-271-07127-5.html" target="_blank">
+  <img src="img/obba2cover.jpg" style="border:none;max-width:33%;" alt="The Second Atlas of Breeding Birds in Ohio"/>
+  </a>
+{: align="center"}
 
 <br>
 
