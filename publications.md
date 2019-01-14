@@ -68,7 +68,7 @@ Rodewald, P.G., Shumar, M.B., Boone, A.T., **Slager, D.L.**, and J. McCormac. 20
 **Slager, D.L.** 2011. [Movement ecology and stopover duration of Northern Waterthrush and Yellow-rumped Warbler during spring migration along the Upper Mississippi River](http://rave.ohiolink.edu/etdc/view?acc_num=osu1312987166). Master's Thesis. The Ohio State University, Columbus, Ohio
 {:h }
 
-Preston, R.L., Clifford, R.J., Thompson, J.A., **Slager, D.L.**, Petersen, C.W., and G.W. Kidder. 2004. [CFTR mRNA expression in developing *Fundulus heteroclitus* embryos](http://www.mdibl.org/documents/2004_Bulletin_000.pdf). *Bulletin of the Mount Desert Island Biological Laboratory* 43:25-27
+Preston, R.L., Clifford, R.J., Thompson, J.A., **Slager, D.L.**, Petersen, C.W., and G.W. Kidder. 2004. [CFTR mRNA expression in developing *Fundulus heteroclitus* embryos](https://mdibl.org/bulletin/bulletin_2004.pdf). *Bulletin of the Mount Desert Island Biological Laboratory* 43:25-27
 {:h }
 
 <br>
