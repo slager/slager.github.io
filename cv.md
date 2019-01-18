@@ -271,6 +271,22 @@ See the [Publications](https://slager.github.io/pubs) page
 
 <br>
 
+# Manuscript reviewer
+
+*Systematic Biology*
+*Zootaxa*
+*Genetica*
+*The Auk: Ornithological Advances*
+*The Condor: Ornithological Applications* (2)
+*Ibis*
+*Journal of Ornithology*
+*Journal of Field Ornithology*
+*Wilson Journal of Ornithology* (3)
+*Chinese Birds*
+*Journal of Caribbean Ornithology*
+
+<br>
+
 # Collaborators
 
 **C.J. Battey** (University of Washington), 
