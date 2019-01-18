@@ -273,8 +273,8 @@ See the [Publications](https://slager.github.io/pubs) page
 
 # Manuscript reviewer
 
-*Systematic Biology*
-*Zootaxa*
+*Systematic Biology*  
+*Zootaxa*  
 *Genetica*
 *The Auk: Ornithological Advances*
 *The Condor: Ornithological Applications* (2)
