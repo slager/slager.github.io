@@ -147,7 +147,7 @@ Preston, R.L., Clifford, R.J., Thompson, J.A., **Slager, D.L.**, Petersen, C.W. 
 # Species accounts in *Neotropical Birds Online*
 \*mentored undergraduate co-author for course-based research
 
-Nielsen, B.L.* and **D.L. Slager**. 2016. [Volcano Junco (*Junco vulcani*)](https://doi.org/10.2173/nb.voljun1.01) in T.S. Schulenberg, ed. *Neotropical Birds Online*. Cornell Lab of Ornithology, Ithaca, New York
+Nielsen, B.L.* and **D.L. Slager**. 2019. [Volcano Junco (*Junco vulcani*)](https://doi.org/10.2173/nb.voljun1.01) in T.S. Schulenberg, ed. *Neotropical Birds Online*. Cornell Lab of Ornithology, Ithaca, New York
 {:h }
 
 Smith, C.* and **D.L. Slager**. 2016. [Striped Sparrow (*Oriturus superciliosus*)](https://doi.org/10.2173/nb.strspa1.01) in T.S. Schulenberg, ed. *Neotropical Birds Online*. Cornell Lab of Ornithology, Ithaca, New York
