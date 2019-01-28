@@ -147,28 +147,31 @@ Preston, R.L., Clifford, R.J., Thompson, J.A., **Slager, D.L.**, Petersen, C.W. 
 # Species accounts in *Neotropical Birds Online*
 \*mentored undergraduate co-author for course-based research
 
-Smith, C.* and **D.L. Slager**. 2016. [Striped Sparrow (*Oriturus superciliosus*)](http://neotropical.birds.cornell.edu/portal/species/overview?p_p_spp=653356) in T.S. Schulenberg, ed. *Neotropical Birds Online*. Cornell Lab of Ornithology, Ithaca, New York
+Nielsen, B.L.* and **D.L. Slager**. 2016. [Volcano Junco (*Junco vulcani*)](https://doi.org/10.2173/nb.voljun1.01) in T.S. Schulenberg, ed. *Neotropical Birds Online*. Cornell Lab of Ornithology, Ithaca, New York
 {:h }
 
-Quick, D.R.* and **D.L. Slager**. 2015. [White-browed Brushfinch (*Arremon torquatus*)](http://neotropical.birds.cornell.edu/portal/species/overview?p_p_spp=648396) in T.S. Schulenberg, ed. *Neotropical Birds Online*. Cornell Lab of Ornithology, Ithaca, New York
+Smith, C.* and **D.L. Slager**. 2016. [Striped Sparrow (*Oriturus superciliosus*)](https://doi.org/10.2173/nb.strspa1.01) in T.S. Schulenberg, ed. *Neotropical Birds Online*. Cornell Lab of Ornithology, Ithaca, New York
 {:h }
 
-Voelker, K.N.* and **D.L. Slager**. 2015. [Olive Finch (*Arremon castaneiceps*)](http://neotropical.birds.cornell.edu/portal/species/overview?p_p_spp=648556) in T.S. Schulenberg, ed. *Neotropical Birds Online*. Cornell Lab of Ornithology, Ithaca, New York
+Quick, D.R.* and **D.L. Slager**. 2015. [White-browed Brushfinch (*Arremon torquatus*)](https://doi.org/10.2173/nb.sthbrf2.01) in T.S. Schulenberg, ed. *Neotropical Birds Online*. Cornell Lab of Ornithology, Ithaca, New York
 {:h }
 
-Murray, D.S.* and **D.L. Slager**. 2015. [Jamaican Vireo (*Vireo modestus*)](http://neotropical.birds.cornell.edu/portal/species/overview?p_p_spp=507116) in T.S. Schulenberg, ed. *Neotropical Birds Online*. Cornell Lab of Ornithology, Ithaca, New York
+Voelker, K.N.* and **D.L. Slager**. 2015. [Olive Finch (*Arremon castaneiceps*)](https://doi.org/10.2173/nb.olifin1.01) in T.S. Schulenberg, ed. *Neotropical Birds Online*. Cornell Lab of Ornithology, Ithaca, New York
 {:h }
 
-Kim, H.J. and **D.L. Slager**. 2015. [Zapata Sparrow (*Torreornis inexpectata*)](http://neotropical.birds.cornell.edu/portal/species/overview?p_p_spp=653516) in T.S. Schulenberg, ed. *Neotropical Birds Online*. Cornell Lab of Ornithology, Ithaca, New York
+Murray, D.S.* and **D.L. Slager**. 2015. [Jamaican Vireo (*Vireo modestus*)](https://doi.org/10.2173/nb.jamvir1.01) in T.S. Schulenberg, ed. *Neotropical Birds Online*. Cornell Lab of Ornithology, Ithaca, New York
 {:h }
 
-Olsen, D.G.* and **D.L. Slager**. 2015. [Golden-winged Sparrow (*Arremon schlegeli*)](http://neotropical.birds.cornell.edu/portal/species/overview?p_p_spp=647596) in T.S. Schulenberg, ed. *Neotropical Birds Online*. Cornell Lab of Ornithology, Ithaca, New York
+Kim, H.J. and **D.L. Slager**. 2015. [Zapata Sparrow (*Torreornis inexpectata*)](https://doi.org/10.2173/nb.zapspa1.01) in T.S. Schulenberg, ed. *Neotropical Birds Online*. Cornell Lab of Ornithology, Ithaca, New York
 {:h }
 
-Gunningham, H.R.* and **D.L. Slager**. 2015. [Saffron-billed Sparrow (*Arremon flavirostris*)](http://neotropical.birds.cornell.edu/portal/species/overview?p_p_spp=647276) in T.S. Schulenberg, ed. *Neotropical Birds Online*. Cornell Lab of Ornithology, Ithaca, New York
+Olsen, D.G.* and **D.L. Slager**. 2015. [Golden-winged Sparrow (*Arremon schlegeli*)](https://doi.org/10.2173/nb.gowspa1.01) in T.S. Schulenberg, ed. *Neotropical Birds Online*. Cornell Lab of Ornithology, Ithaca, New York
 {:h }
 
-**Slager, D.L.** 2011. [Rufous-naped Greenlet (*Hylophilus semibrunneus*)](http://neotropical.birds.cornell.edu/portal/species/overview?p_p_spp=512236) in T.S. Schulenberg, ed. *Neotropical Birds Online*. Cornell Lab of Ornithology, Ithaca, New York
+Gunningham, H.R.* and **D.L. Slager**. 2015. [Saffron-billed Sparrow (*Arremon flavirostris*)](https://doi.org/10.2173/nb.sabspa1.01) in T.S. Schulenberg, ed. *Neotropical Birds Online*. Cornell Lab of Ornithology, Ithaca, New York
+{:h }
+
+**Slager, D.L.** 2011. [Rufous-naped Greenlet (*Hylophilus semibrunneus*)](https://doi.org/10.2173/nb.rungre1.01) in T.S. Schulenberg, ed. *Neotropical Birds Online*. Cornell Lab of Ornithology, Ithaca, New York
 {:h }
 
 <br>
