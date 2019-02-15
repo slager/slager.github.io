@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 permalink: /pubs
-navorder: 4
+navorder: 2
 ---
 
 {::comment}

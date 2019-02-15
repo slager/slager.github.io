@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /research
-navorder: 3
+navorder: 1
 ---
 
 ## Current research

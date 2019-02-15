@@ -2,7 +2,7 @@
 layout: page
 title: Birding
 permalink: /birding
-navorder: 5
+navorder: 4
 ---
 
 Birding info coming soon!

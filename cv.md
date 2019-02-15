@@ -2,7 +2,7 @@
 layout: page
 title: CV
 permalink: /cv
-navorder: 2
+navorder: 3
 ---
 
 {::comment}
