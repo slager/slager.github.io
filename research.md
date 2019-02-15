@@ -5,7 +5,7 @@ permalink: /research
 navorder: 3
 ---
 
-## Current research projects
+## Current research
 {: align="center"}
 
 # Cryptic hybridization in American crows
@@ -41,7 +41,7 @@ The dispersal behavior that underlies range expansions is often a challenge to s
 
 <br>
 
-## Past research projects
+## Past research
 {: align="center"}
 
 # Phylogenetics and systematics of the Vireonidae
