@@ -203,6 +203,9 @@ See the [Publications](publications.md) page
 
 # Teaching
 
+**Teaching Assistant**, Introductory Biology (BIOL 180), University of Washington, Winter 2019. Instructor: Dr. Elli Theobald
+{:h }
+
 **Teaching Assistant**, Foundations in Evolution and Systematics (BIOL 354), University of Washington, Autumn 2018. Instructor: Dr. Jon Herron
 {:h }
 
