@@ -10,12 +10,17 @@ Hanging indent definition {:h } https://kramdown.gettalong.org/syntax.html#attri
 {:/comment}
 {:h: style="margin-left:3em;text-indent:-3em"}
 
+{::comment}
+New tab launcher definition {:nt } https://kramdown.gettalong.org/syntax.html#attribute-list-definitions
+{:/comment}
+{:nt: target="_blank" rel="noopener noreferrer"}
+
 ## Publications
 {: align="center"}
 
 # Preprints
 
-**Slager, D.L.** 2019. [Seasonal and directional dispersal behavior in an ongoing dove invasion](https://doi.org/10.1101/517540){:target="_blank"}. *bioRxiv*:517540
+**Slager, D.L.** 2019. [Seasonal and directional dispersal behavior in an ongoing dove invasion](https://doi.org/10.1101/517540){:nt }. *bioRxiv*:517540
 {:h }
 
 **Slager, D.L.**, Epperly, K.L., Ha, R.R., Rohwer, S., Wood, C., Van Hemert, C., and J. Klicka. 2018. [Cryptic and extensive hybridization between ancient lineages of American crows](https://doi.org/10.1101/491654){:target="_blank"}. *bioRxiv*:491654
