@@ -16,10 +16,10 @@ https://stackoverflow.com/questions/15551779/open-link-in-new-tab-or-window
 {:/comment}
 {:nt: target="_blank" rel="noopener noreferrer"}
 
-## [Google Scholar profile](https://scholar.google.com/citations?user=8zJh4cMAAAAJ&hl=en){:nt }
+## Publications
 {: align="center"}
 
-## Publications
+# [Google Scholar profile](https://scholar.google.com/citations?user=8zJh4cMAAAAJ&hl=en){:nt }
 {: align="center"}
 
 # Preprints
