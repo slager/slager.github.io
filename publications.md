@@ -20,7 +20,6 @@ https://stackoverflow.com/questions/15551779/open-link-in-new-tab-or-window
 {: align="center"}
 
 # [Google Scholar profile](https://scholar.google.com/citations?user=8zJh4cMAAAAJ&hl=en){:nt }
-{: align="center"}
 
 # Preprints
 
