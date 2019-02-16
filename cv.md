@@ -89,7 +89,7 @@ Hanging indent definition {:h } https://kramdown.gettalong.org/syntax.html#attri
 
 # Publications
 
-See the [Publications](https://slager.github.io/pubs) page
+See the [Publications](publications.md) page
 
 <br>
 
@@ -184,7 +184,7 @@ See the [Publications](https://slager.github.io/pubs) page
 **Best Student Talk Award**, Society of Canadian Ornithologists/Société des Ornithologistes du Canada, 2015
 {:h }
 
-[**1000 Word Challenge Winner**](https://scipos.blogspot.com/2015/04/1000-word-challenge-dynasty-of-biology.html), Burke Museum of Natural History and Culture/Seattle Forum on Science Ethics and Policy, 2015
+[**1000 Word Challenge Winner**](https://scipos.blogspot.com/2015/04/1000-word-challenge-dynasty-of-biology.html){:target="_blank"}, Burke Museum of Natural History and Culture/Seattle Forum on Science Ethics and Policy, 2015
 {:h }
 
 **1000 Word Challenge Winner**, Burke Museum of Natural History and Culture/Seattle Forum on Science Ethics and Policy, 2014
