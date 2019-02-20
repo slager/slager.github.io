@@ -21,12 +21,18 @@ https://stackoverflow.com/questions/15551779/open-link-in-new-tab-or-window
 
 # [Google Scholar profile](https://scholar.google.com/citations?user=8zJh4cMAAAAJ&hl=en){:nt }
 
-# Preprints
+# Preprints and articles in review
 
-**Slager, D.L.** 2019. [Seasonal and directional dispersal behavior in an ongoing dove invasion](https://doi.org/10.1101/517540){:nt }. *bioRxiv*:517540
+\*mentored undergraduate co-author for course-based research
+{:style="margin-left:3em"}
+
+Booth, H.\*, Yruretagoyena, L.\*, Kuruvilla, M.\*, and **D.L. Slager**. Submitted. Marine feeding ecology and activity budgets of Belted Kingfishers during the post-fledging period.
 {:h }
 
-**Slager, D.L.**, Epperly, K.L., Ha, R.R., Rohwer, S., Wood, C., Van Hemert, C., and J. Klicka. 2018. [Cryptic and extensive hybridization between ancient lineages of American crows](https://doi.org/10.1101/491654){:nt }. *bioRxiv*:491654
+**Slager, D.L.** 2019. [Seasonal and directional dispersal behavior in an ongoing dove invasion](https://doi.org/10.1101/517540){:nt }. In review. *bioRxiv*:517540.
+{:h }
+
+**Slager, D.L.**, Epperly, K.L., Ha, R.R., Rohwer, S., Wood, C., Van Hemert, C., and J. Klicka. 2018. [Cryptic and extensive hybridization between ancient lineages of American crows](https://doi.org/10.1101/491654){:nt }. In review. *bioRxiv*:491654.
 {:h }
 
 <br>
@@ -153,30 +159,32 @@ Preston, R.L., Clifford, R.J., Thompson, J.A., **Slager, D.L.**, Petersen, C.W. 
 <br>
 
 # Species accounts in *Neotropical Birds Online*
+
 \*mentored undergraduate co-author for course-based research
+{:style="margin-left:3em"}
 
-Nielsen, B.L.* and **D.L. Slager**. 2019. [Volcano Junco (*Junco vulcani*)](https://doi.org/10.2173/nb.voljun1.01){:nt } in T.S. Schulenberg, ed. *Neotropical Birds Online*. Cornell Lab of Ornithology, Ithaca, New York
+Nielsen, B.L.\* and **D.L. Slager**. 2019. [Volcano Junco (*Junco vulcani*)](https://doi.org/10.2173/nb.voljun1.01){:nt } in T.S. Schulenberg, ed. *Neotropical Birds Online*. Cornell Lab of Ornithology, Ithaca, New York
 {:h }
 
-Smith, C.* and **D.L. Slager**. 2016. [Striped Sparrow (*Oriturus superciliosus*)](https://doi.org/10.2173/nb.strspa1.01){:nt } in T.S. Schulenberg, ed. *Neotropical Birds Online*. Cornell Lab of Ornithology, Ithaca, New York
+Smith, C.\* and **D.L. Slager**. 2016. [Striped Sparrow (*Oriturus superciliosus*)](https://doi.org/10.2173/nb.strspa1.01){:nt } in T.S. Schulenberg, ed. *Neotropical Birds Online*. Cornell Lab of Ornithology, Ithaca, New York
 {:h }
 
-Quick, D.R.* and **D.L. Slager**. 2015. [White-browed Brushfinch (*Arremon torquatus*)](https://doi.org/10.2173/nb.sthbrf2.01){:nt } in T.S. Schulenberg, ed. *Neotropical Birds Online*. Cornell Lab of Ornithology, Ithaca, New York
+Quick, D.R.\* and **D.L. Slager**. 2015. [White-browed Brushfinch (*Arremon torquatus*)](https://doi.org/10.2173/nb.sthbrf2.01){:nt } in T.S. Schulenberg, ed. *Neotropical Birds Online*. Cornell Lab of Ornithology, Ithaca, New York
 {:h }
 
-Voelker, K.N.* and **D.L. Slager**. 2015. [Olive Finch (*Arremon castaneiceps*)](https://doi.org/10.2173/nb.olifin1.01){:nt } in T.S. Schulenberg, ed. *Neotropical Birds Online*. Cornell Lab of Ornithology, Ithaca, New York
+Voelker, K.N.\* and **D.L. Slager**. 2015. [Olive Finch (*Arremon castaneiceps*)](https://doi.org/10.2173/nb.olifin1.01){:nt } in T.S. Schulenberg, ed. *Neotropical Birds Online*. Cornell Lab of Ornithology, Ithaca, New York
 {:h }
 
-Murray, D.S.* and **D.L. Slager**. 2015. [Jamaican Vireo (*Vireo modestus*)](https://doi.org/10.2173/nb.jamvir1.01){:nt } in T.S. Schulenberg, ed. *Neotropical Birds Online*. Cornell Lab of Ornithology, Ithaca, New York
+Murray, D.S.\* and **D.L. Slager**. 2015. [Jamaican Vireo (*Vireo modestus*)](https://doi.org/10.2173/nb.jamvir1.01){:nt } in T.S. Schulenberg, ed. *Neotropical Birds Online*. Cornell Lab of Ornithology, Ithaca, New York
 {:h }
 
 Kim, H.J. and **D.L. Slager**. 2015. [Zapata Sparrow (*Torreornis inexpectata*)](https://doi.org/10.2173/nb.zapspa1.01){:nt } in T.S. Schulenberg, ed. *Neotropical Birds Online*. Cornell Lab of Ornithology, Ithaca, New York
 {:h }
 
-Olsen, D.G.* and **D.L. Slager**. 2015. [Golden-winged Sparrow (*Arremon schlegeli*)](https://doi.org/10.2173/nb.gowspa1.01){:nt } in T.S. Schulenberg, ed. *Neotropical Birds Online*. Cornell Lab of Ornithology, Ithaca, New York
+Olsen, D.G.\* and **D.L. Slager**. 2015. [Golden-winged Sparrow (*Arremon schlegeli*)](https://doi.org/10.2173/nb.gowspa1.01){:nt } in T.S. Schulenberg, ed. *Neotropical Birds Online*. Cornell Lab of Ornithology, Ithaca, New York
 {:h }
 
-Gunningham, H.R.* and **D.L. Slager**. 2015. [Saffron-billed Sparrow (*Arremon flavirostris*)](https://doi.org/10.2173/nb.sabspa1.01){:nt } in T.S. Schulenberg, ed. *Neotropical Birds Online*. Cornell Lab of Ornithology, Ithaca, New York
+Gunningham, H.R.\* and **D.L. Slager**. 2015. [Saffron-billed Sparrow (*Arremon flavirostris*)](https://doi.org/10.2173/nb.sabspa1.01){:nt } in T.S. Schulenberg, ed. *Neotropical Birds Online*. Cornell Lab of Ornithology, Ithaca, New York
 {:h }
 
 **Slager, D.L.** 2011. [Rufous-naped Greenlet (*Hylophilus semibrunneus*)](https://doi.org/10.2173/nb.rungre1.01){:nt } in T.S. Schulenberg, ed. *Neotropical Birds Online*. Cornell Lab of Ornithology, Ithaca, New York
