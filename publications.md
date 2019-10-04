@@ -96,6 +96,9 @@ Preston, R.L., Clifford, R.J., Thompson, J.A., **Slager, D.L.**, Petersen, C.W.,
 
 # Contributed presentations
 
+**Slager, D.L.** 2019. Seasonal and directional dispersal behavior in an ongoing dove invasion. American Ornithological Society Conference, Anchorage, Alaska (talk)
+{:h }
+
 **Slager, D.L.**, Epperly, K.L., Klicka, J. 2018. Characterizing hybridization between Northwestern and American Crows using genetic data from 150 years of museum specimens. International Ornithological Congress, Vancouver, British Columbia, Canada (poster)
 {:h }
 

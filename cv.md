@@ -187,6 +187,9 @@ See the [Publications](publications.md) page
 
 # Honors
 
+**Student Presentation Award Honorable Mention**, American Ornithological Society, 2019
+{:h }
+
 **Best Student Talk Award**, Society of Canadian Ornithologists/Société des Ornithologistes du Canada, 2015
 {:h }
 
