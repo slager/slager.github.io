@@ -206,6 +206,9 @@ See the [Publications](publications.md) page
 
 # Teaching
 
+**Teaching Assistant**, Vertebrate Biology (BIOL 452), University of Washington, Summer 2019. Instructor: Dr. Karen Petersen
+{:h }
+
 **Teaching Assistant**, Introductory Biology (BIOL 180), University of Washington, Winter 2019. Instructor: Dr. Elli Theobald
 {:h }
 
