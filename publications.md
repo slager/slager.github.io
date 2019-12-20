@@ -36,7 +36,7 @@ Booth, H.\*, Yruretagoyena, L.\*, Kuruvilla, M.\*, and **D.L. Slager**. In revie
 
 # Peer-reviewed articles
 
-**Slager, D.L.**. [Seasonal and directional dispersal behavior in an ongoing dove invasion](https://doi.org/10.1111/jav.02332){:nt }. In press. *Journal of Avian Biology* [[preprint]](https://doi.org/10.1101/517540).
+**Slager, D.L.** [Seasonal and directional dispersal behavior in an ongoing dove invasion](https://doi.org/10.1111/jav.02332){:nt }. In press. *Journal of Avian Biology* [[preprint]](https://doi.org/10.1101/517540).
 {:h }
 
 Battey, C.J., Linck, E.B., Epperly, K.L., French, C., **Slager, D.L.**, Sykes, P.W. Jr., and J. Klicka. 2018. [A migratory divide in the Painted Bunting (*Passerina ciris*)](https://doi.org/10.1086/695439){:nt }. *The American Naturalist* 191:259-268
