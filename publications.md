@@ -42,28 +42,28 @@ Theobald, E.L., Hill, M.J., Tran, E., Agrawal, S., Arroyo, E.N., Behling, S., Ch
 **Slager, D.L.** 2019. [Seasonal and directional dispersal behavior in an ongoing dove invasion](https://doi.org/10.1111/jav.02332){:nt }. *Journal of Avian Biology* [[preprint]](https://doi.org/10.1101/517540)
 {:h }
 
-Battey, C.J., Linck, E.B., Epperly, K.L., French, C., **Slager, D.L.**, Sykes, P.W. Jr., and J. Klicka. 2018. [A migratory divide in the Painted Bunting (*Passerina ciris*)](https://doi.org/10.1086/695439){:nt }. *The American Naturalist* 191:259-268
+Battey, C.J., Linck, E.B., Epperly, K.L., French, C., **Slager, D.L.**, Sykes, P.W. Jr., and J. Klicka. 2018. [A migratory divide in the Painted Bunting (*Passerina ciris*)](https://doi.org/10.1086/695439){:nt }. *The American Naturalist* 191:259-268 [[preprint]](https://doi.org/10.1101/132910)
 {:h }
 
-**Slager, D.L.**, Rodewald, P.G., and P.J. Heglund. 2015. [Experimental effects of habitat type on the movement ecology and stopover duration of spring migrant Northern Waterthrushes (*Parkesia noveboracensis*)](http://dx.doi.org/10.1007/s00265-015-1993-y){:nt }. *Behavioral Ecology and Sociobiology* 69:1809-1819
+**Slager, D.L.**, Rodewald, P.G., and P.J. Heglund. 2015. [Experimental effects of habitat type on the movement ecology and stopover duration of spring migrant Northern Waterthrushes (*Parkesia noveboracensis*)](https://doi.org/10.1007/s00265-015-1993-y){:nt }. *Behavioral Ecology and Sociobiology* 69:1809-1819
 {:h }
 
-**Slager, D.L.** and P.G. Rodewald. 2015. [Disjunct nocturnal roosting by a Yellow-rumped Warbler (*Setophaga coronata*) during migratory stopover](http://dx.doi.org/10.1676/14-038.1){:nt }. *Wilson Journal of Ornithology* 127:109-114
+**Slager, D.L.** and P.G. Rodewald. 2015. [Disjunct nocturnal roosting by a Yellow-rumped Warbler (*Setophaga coronata*) during migratory stopover](https://doi.org/10.1676/14-038.1){:nt }. *Wilson Journal of Ornithology* 127:109-114
 {:h }
 
-**Slager, D.L.** and J. Klicka. 2014. [Polyphyly of *Hylophilus* and a new genus for the Tawny-crowned Greenlet (Aves: Passeriformes: Vireonidae)](http://dx.doi.org/10.11646/zootaxa.3884.2.8){:nt }. *Zootaxa* 3884:194-196
+**Slager, D.L.** and J. Klicka. 2014. [Polyphyly of *Hylophilus* and a new genus for the Tawny-crowned Greenlet (Aves: Passeriformes: Vireonidae)](https://doi.org/10.11646/zootaxa.3884.2.8){:nt }. *Zootaxa* 3884:194-196
 {:h }
 
-**Slager, D.L.**, Battey, C.J., Bryson, R.W. Jr., Voelker, G. and J. Klicka. 2014. [A multilocus phylogeny of a major New World avian radiation: The Vireonidae](http://dx.doi.org/10.1016/j.ympev.2014.07.021){:nt }. *Molecular Phylogenetics and Evolution* 80:95-104
+**Slager, D.L.**, Battey, C.J., Bryson, R.W. Jr., Voelker, G. and J. Klicka. 2014. [A multilocus phylogeny of a major New World avian radiation: The Vireonidae](https://doi.org/10.1016/j.ympev.2014.07.021){:nt }. *Molecular Phylogenetics and Evolution* 80:95-104
 {:h }
 
-**Slager, D.L.** and J. Klicka. 2014. [A new genus for the American Tree Sparrow (Aves: Passeriformes: Passerellidae)](http://dx.doi.org/10.11646/zootaxa.3821.3.9){:nt }. *Zootaxa* 3821:398-400
+**Slager, D.L.** and J. Klicka. 2014. [A new genus for the American Tree Sparrow (Aves: Passeriformes: Passerellidae)](https://doi.org/10.11646/zootaxa.3821.3.9){:nt }. *Zootaxa* 3821:398-400
 {:h }
 
-**Slager, D.L.**, McDermott, M.E., and A.D. Rodewald. 2012. [Kleptoparasitism of nesting material from a Red-faced Spinetail (*Cranioleuca erythrops*) nest site](http://dx.doi.org/10.1676/1559-4491-124.4.812){:nt }. *Wilson Journal of Ornithology* 124:812-815
+**Slager, D.L.**, McDermott, M.E., and A.D. Rodewald. 2012. [Kleptoparasitism of nesting material from a Red-faced Spinetail (*Cranioleuca erythrops*) nest site](https://doi.org/10.1676/1559-4491-124.4.812){:nt }. *Wilson Journal of Ornithology* 124:812-815
 {:h }
 
-Bush, S.E., Harbison, C.W., **Slager, D.L.**, Peterson, A.T., Price, R.D., and D.H. Clayton. 2009. [Geographic Variation in the Community Structure of Lice on Western Scrub-Jays](http://dx.doi.org/10.1645/GE-1591.1){:nt }. *Journal of Parasitology* 95:10-13
+Bush, S.E., Harbison, C.W., **Slager, D.L.**, Peterson, A.T., Price, R.D., and D.H. Clayton. 2009. [Geographic Variation in the Community Structure of Lice on Western Scrub-Jays](https://doi.org/10.1645/GE-1591.1){:nt }. *Journal of Parasitology* 95:10-13
 {:h }
 
 <br>
