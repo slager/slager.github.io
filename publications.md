@@ -39,10 +39,10 @@ Theobald, E.L., Hill, M.J., Tran, E., Agrawal, S., Arroyo, E.N., Behling, S., Ch
 
 # Peer-reviewed articles
 
-**Slager, D.L.** 2019. [Seasonal and directional dispersal behavior in an ongoing dove invasion](https://doi.org/10.1111/jav.02332){:nt }. *Journal of Avian Biology* [[preprint]](https://doi.org/10.1101/517540)
+**Slager, D.L.** 2019. [Seasonal and directional dispersal behavior in an ongoing dove invasion](https://doi.org/10.1111/jav.02332){:nt }. *Journal of Avian Biology* [[preprint]](https://doi.org/10.1101/517540){:nt }
 {:h }
 
-Battey, C.J., Linck, E.B., Epperly, K.L., French, C., **Slager, D.L.**, Sykes, P.W. Jr., and J. Klicka. 2018. [A migratory divide in the Painted Bunting (*Passerina ciris*)](https://doi.org/10.1086/695439){:nt }. *The American Naturalist* 191:259-268 [[preprint]](https://doi.org/10.1101/132910)
+Battey, C.J., Linck, E.B., Epperly, K.L., French, C., **Slager, D.L.**, Sykes, P.W. Jr., and J. Klicka. 2018. [A migratory divide in the Painted Bunting (*Passerina ciris*)](https://doi.org/10.1086/695439){:nt }. *The American Naturalist* 191:259-268 [[preprint]](https://doi.org/10.1101/132910){:nt }
 {:h }
 
 **Slager, D.L.**, Rodewald, P.G., and P.J. Heglund. 2015. [Experimental effects of habitat type on the movement ecology and stopover duration of spring migrant Northern Waterthrushes (*Parkesia noveboracensis*)](https://doi.org/10.1007/s00265-015-1993-y){:nt }. *Behavioral Ecology and Sociobiology* 69:1809-1819
