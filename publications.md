@@ -26,20 +26,20 @@ https://stackoverflow.com/questions/15551779/open-link-in-new-tab-or-window
 \*mentored undergraduate co-author for course-based research
 {:style="margin-left:3em"}
 
-Booth, H.\*, Yruretagoyena, L.\*, Kuruvilla, M.\*, and **D.L. Slager**. In review. Marine feeding ecology and activity budgets of Belted Kingfishers during the post-fledging period.
+Booth, H.\*, Yruretagoyena, L.\*, Kuruvilla, M.\*, and **D.L. Slager**. In review. Marine feeding ecology and activity budgets of Belted Kingfishers during the post-fledging period
 {:h }
 
 **Slager, D.L.**, Epperly, K.L., Ha, R.R., Rohwer, S., Wood, C., Van Hemert, C., and J. Klicka. 2018. [Cryptic and extensive hybridization between ancient lineages of American crows](https://doi.org/10.1101/491654){:nt }. In review. *bioRxiv*:491654.
 {:h }
 
-Theobald, E.L., Hill, M.J., Tran, E., Agrawal, S., Arroyo, E.N., Behling, S., Chambwe, N., Cintrón, D.L., Cooper, J.D., Dunster, G., Grummer, J.A., Hennessey, K., Hsiao, J., Iranon, N., Jones, L. II, Jordt, H.L., Keller, M., Lacey, M.E., Littlefield, C.E., Lowe, A.T., Newman, S., Okolo, V., Olroyd, S.L., Peecook, B.R., Pickett, S.B., **Slager, D.L.**, Caviedes-Solis, I.W., Stanchak, K.E., Sundaravardan, V., Valdebenito, C., Williams, C.R., Zinsli, K., and S. Freeman. In review. [Active learning narrows achievement gaps for underrepresented students in undergraduate science, technology, engineering and math](){:nt }.
+Theobald, E.L., Hill, M.J., Tran, E., Agrawal, S., Arroyo, E.N., Behling, S., Chambwe, N., Cintrón, D.L., Cooper, J.D., Dunster, G., Grummer, J.A., Hennessey, K., Hsiao, J., Iranon, N., Jones, L. II, Jordt, H.L., Keller, M., Lacey, M.E., Littlefield, C.E., Lowe, A.T., Newman, S., Okolo, V., Olroyd, S.L., Peecook, B.R., Pickett, S.B., **Slager, D.L.**, Caviedes-Solis, I.W., Stanchak, K.E., Sundaravardan, V., Valdebenito, C., Williams, C.R., Zinsli, K., and S. Freeman. In review. [Active learning narrows achievement gaps for underrepresented students in undergraduate science, technology, engineering and math](){:nt }
 {:h }
 
 <br>
 
 # Peer-reviewed articles
 
-**Slager, D.L.** 2019. [Seasonal and directional dispersal behavior in an ongoing dove invasion](https://doi.org/10.1111/jav.02332){:nt }. *Journal of Avian Biology* [[preprint]](https://doi.org/10.1101/517540).
+**Slager, D.L.** 2019. [Seasonal and directional dispersal behavior in an ongoing dove invasion](https://doi.org/10.1111/jav.02332){:nt }. *Journal of Avian Biology* [[preprint]](https://doi.org/10.1101/517540)
 {:h }
 
 Battey, C.J., Linck, E.B., Epperly, K.L., French, C., **Slager, D.L.**, Sykes, P.W. Jr., and J. Klicka. 2018. [A migratory divide in the Painted Bunting (*Passerina ciris*)](https://doi.org/10.1086/695439){:nt }. *The American Naturalist* 191:259-268
