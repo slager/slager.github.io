@@ -29,12 +29,10 @@ https://stackoverflow.com/questions/15551779/open-link-in-new-tab-or-window
 Booth, H.\*, Yruretagoyena, L.\*, Kuruvilla, M.\*, and **D.L. Slager**. In review. Marine feeding ecology and activity budgets of Belted Kingfishers during the post-fledging period
 {:h }
 
-Theobald, E.L., Hill, M.J., Tran, E., Agrawal, S., Arroyo, E.N., Behling, S., Chambwe, N., Cintrón, D.L., Cooper, J.D., Dunster, G., Grummer, J.A., Hennessey, K., Hsiao, J., Iranon, N., Jones, L. II, Jordt, H.L., Keller, M., Lacey, M.E., Littlefield, C.E., Lowe, A.T., Newman, S., Okolo, V., Olroyd, S.L., Peecook, B.R., Pickett, S.B., **Slager, D.L.**, Caviedes-Solis, I.W., Stanchak, K.E., Sundaravardan, V., Valdebenito, C., Williams, C.R., Zinsli, K., and S. Freeman. In review. [Active learning narrows achievement gaps for underrepresented students in undergraduate science, technology, engineering and math](){:nt }
-{:h }
-
-<br>
-
 # Peer-reviewed articles
+
+Theobald, E.L., Hill, M.J., Tran, E., Agrawal, S., Arroyo, E.N., Behling, S., Chambwe, N., Cintrón, D.L., Cooper, J.D., Dunster, G., Grummer, J.A., Hennessey, K., Hsiao, J., Iranon, N., Jones, L. II, Jordt, H.L., Keller, M., Lacey, M.E., Littlefield, C.E., Lowe, A.T., Newman, S., Okolo, V., Olroyd, S.L., Peecook, B.R., Pickett, S.B., **Slager, D.L.**, Caviedes-Solis, I.W., Stanchak, K.E., Sundaravardan, V., Valdebenito, C., Williams, C.R., Zinsli, K., and S. Freeman. 2020. [Active learning narrows achievement gaps for underrepresented students in undergraduate science, technology, engineering and math](https://www.pnas.org/content/early/2020/03/03/1916903117){:nt }. *Proceedings of the National Academy of Sciences*
+{:h }
 
 **Slager, D.L.**, Epperly, K.L., Ha, R.R., Rohwer, S., Wood, C., Van Hemert, C., and J. Klicka. 2020. [Cryptic and extensive hybridization between ancient lineages of American crows](https://doi.org/10.1111/mec.15377){:nt }. *Molecular Ecology* [[preprint]](https://doi.org/10.1101/491654){:nt }
 {:h }
@@ -66,8 +64,6 @@ Battey, C.J., Linck, E.B., Epperly, K.L., French, C., **Slager, D.L.**, Sykes, P
 Bush, S.E., Harbison, C.W., **Slager, D.L.**, Peterson, A.T., Price, R.D., and D.H. Clayton. 2009. [Geographic Variation in the Community Structure of Lice on Western Scrub-Jays](https://doi.org/10.1645/GE-1591.1){:nt }. *Journal of Parasitology* 95:10-13
 {:h }
 
-<br>
-
 # Books
 
 Rodewald, P.G., Shumar, M.B., Boone, A.T., **Slager, D.L.**, and J. McCormac. 2016. [*The Second Atlas of Breeding Birds in Ohio*](http://www.psupress.org/books/titles/978-0-271-07127-5.html){:nt }. Penn State University Press, University Park, Pennsylvania 578 pp
@@ -78,8 +74,6 @@ Rodewald, P.G., Shumar, M.B., Boone, A.T., **Slager, D.L.**, and J. McCormac. 20
   </a>
 {: align="center"}
 
-<br>
-
 # Miscellaneous publications
 
 **Slager, D.L.** 2011. [Movement ecology and stopover duration of Northern Waterthrush and Yellow-rumped Warbler during spring migration along the Upper Mississippi River](http://rave.ohiolink.edu/etdc/view?acc_num=osu1312987166){:nt }. Master's Thesis. The Ohio State University, Columbus, Ohio
@@ -88,14 +82,10 @@ Rodewald, P.G., Shumar, M.B., Boone, A.T., **Slager, D.L.**, and J. McCormac. 20
 Preston, R.L., Clifford, R.J., Thompson, J.A., **Slager, D.L.**, Petersen, C.W., and G.W. Kidder. 2004. [CFTR mRNA expression in developing *Fundulus heteroclitus* embryos](https://mdibl.org/bulletin/bulletin_2004.pdf){:nt }. *Bulletin of the Mount Desert Island Biological Laboratory* 43:25-27
 {:h }
 
-<br>
-
 # Invited presentations
 
 **Slager, D.L.** 2017. Unlocking the genomes of museum specimens to address longstanding questions in avian biology. Thompson Hall Science and Mathematics Seminar, University of Puget Sound, Tacoma, Washington (talk)
 {:h }
-
-<br>
 
 # Contributed presentations
 
@@ -162,8 +152,6 @@ Battey, C.J., **Slager, D.L.**, Bryson, R.W. Jr., and J. Klicka. 2014. Paraphyly
 Preston, R.L., Clifford, R.J., Thompson, J.A., **Slager, D.L.**, Petersen, C.W. and G.W. Kidder. 2003. Changes in apparent CFTR mRNA expression in developing killifish oocytes. Annual Meeting of the Society for Integrative and Comparative Biology, New Orleans, Louisiana (poster)
 {:h }
 
-<br>
-
 # Species accounts in *Neotropical Birds Online*
 
 \*mentored undergraduate co-author for course-based research
@@ -195,8 +183,6 @@ Gunningham, H.R.\* and **D.L. Slager**. 2015. [Saffron-billed Sparrow (*Arremon 
 
 **Slager, D.L.** 2011. [Rufous-naped Greenlet (*Hylophilus semibrunneus*)](https://doi.org/10.2173/nb.rungre1.01){:nt } in T.S. Schulenberg, ed. *Neotropical Birds Online*. Cornell Lab of Ornithology, Ithaca, New York
 {:h }
-
-<br>
 
 # Species accounts in *The Second Atlas of Breeding Birds in Ohio*
 
