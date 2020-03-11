@@ -37,7 +37,7 @@ Theobald, E.L., Hill, M.J., Tran, E., Agrawal, S., Arroyo, E.N., Behling, S., Ch
 **Slager, D.L.**, Epperly, K.L., Ha, R.R., Rohwer, S., Wood, C., Van Hemert, C., and J. Klicka. 2020. [Cryptic and extensive hybridization between ancient lineages of American crows](https://doi.org/10.1111/mec.15377){:nt }. *Molecular Ecology* 29:956-969 [[preprint]](https://doi.org/10.1101/491654){:nt }
 {:h }
 
-**Slager, D.L.** 2019. [Seasonal and directional dispersal behavior in an ongoing dove invasion](https://doi.org/10.1111/jav.02332){:nt }. *Journal of Avian Biology* [[preprint]](https://doi.org/10.1101/517540){:nt }
+**Slager, D.L.** 2019. [Seasonal and directional dispersal behavior in an ongoing dove invasion](https://doi.org/10.1111/jav.02332){:nt }. *Journal of Avian Biology* 2020:e02332 [[preprint]](https://doi.org/10.1101/517540){:nt }
 {:h }
 
 Battey, C.J., Linck, E.B., Epperly, K.L., French, C., **Slager, D.L.**, Sykes, P.W. Jr., and J. Klicka. 2018. [A migratory divide in the Painted Bunting (*Passerina ciris*)](https://doi.org/10.1086/695439){:nt }. *The American Naturalist* 191:259-268 [[preprint]](https://doi.org/10.1101/132910){:nt }
