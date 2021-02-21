@@ -76,6 +76,9 @@ Rodewald, P.G., Shumar, M.B., Boone, A.T., **Slager, D.L.**, and J. McCormac. 20
 
 # Miscellaneous publications
 
+Ottenburghs, J. and **D. L. Slager**. [How common is avian hybridization on an individual level?](https://doi.org/10.1111/evo.13985){:nt } *Evolution* 74:1228-1229
+{:h }
+
 **Slager, D.L.** 2011. [Movement ecology and stopover duration of Northern Waterthrush and Yellow-rumped Warbler during spring migration along the Upper Mississippi River](http://rave.ohiolink.edu/etdc/view?acc_num=osu1312987166){:nt }. Master's Thesis. The Ohio State University, Columbus, Ohio
 {:h }
 
