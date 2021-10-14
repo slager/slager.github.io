@@ -17,7 +17,7 @@ https://stackoverflow.com/questions/15551779/open-link-in-new-tab-or-window
 # Cryptic hybridization in American crows
 
 <a target="_blank" rel="noopener noreferrer" href="https://macaulaylibrary.org/asset/41994211" title="ML41994211 American/Northwestern Crow © Joshua Covill">
-<img alt="© Joshua Covill - American/Northwestern Crow" style="border:none;max-width:100%;" src="https://download.ams.birds.cornell.edu/api/v1/asset/41994211/2400"/>
+<img alt="© Joshua Covill - American/Northwestern Crow" style="border:none;max-width:100%;" src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/41994211/2400"/>
 </a>
 {: align="center"}
 
@@ -28,7 +28,7 @@ Most species and hybrid zones have historically been described using phenotypic 
 # Phenotypic evolution and mimicry in Tyrannini flycatchers
 
 <a target="_blank" rel="noopener noreferrer" href="https://macaulaylibrary.org/asset/39567291" title="ML39567291 Great Kiskadee © Sean Fitzgerald">
-<img alt="© Sean Fitzgerald - Great Kiskadee" style="border:none;max-width:100%;" src="https://download.ams.birds.cornell.edu/api/v1/asset/39567291/2400"/>
+<img alt="© Sean Fitzgerald - Great Kiskadee" style="border:none;max-width:100%;" src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/39567291/2400"/>
 </a>
 {: align="center"}
 
@@ -39,7 +39,7 @@ Why do distantly related species sometimes closely resemble each other? Mimicry,
 # Dispersal behavior in Eurasian Collared-Doves
 
 <a target="_blank" rel="noopener noreferrer" href="https://macaulaylibrary.org/asset/97258391" title="ML97258391 Eurasian Collared-Dove © Janine Schutt">
-<img alt="© Janine Schutt - Eurasian Collared-Dove" style="border:none;max-width:100%;" src="https://download.ams.birds.cornell.edu/api/v1/asset/97258391/2400"/>
+<img alt="© Janine Schutt - Eurasian Collared-Dove" style="border:none;max-width:100%;" src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/97258391/2400"/>
 </a>
 {: align="center"}
 
@@ -53,7 +53,7 @@ The dispersal behavior that underlies range expansions is often a challenge to s
 # Phylogenetics and systematics of the Vireonidae
 
 <a target="_blank" rel="noopener noreferrer" href="https://macaulaylibrary.org/asset/61514741" title="ML61514741 Chestnut-sided Shrike-Vireo © Ian Davies">
-<img alt="© Ian Davies - Chestnut-sided Shrike-Vireo" style="border:none;max-width:100%;" src="https://download.ams.birds.cornell.edu/api/v1/asset/61514741/2400"/>
+<img alt="© Ian Davies - Chestnut-sided Shrike-Vireo" style="border:none;max-width:100%;" src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/61514741/2400"/>
 </a>
 {: align="center"}
 
@@ -64,7 +64,7 @@ The vireo family is a widespread and well-known radiation of New World passerine
 # Movement ecology of Northern Waterthrushes during migratory stopover
 
 <a target="_blank" rel="noopener noreferrer" href="https://macaulaylibrary.org/asset/47818211" title="ML47818211 Northern Waterthrush © Raymond Gagnon">
-<img alt="© Raymond Gagnon - Northern Waterthrush" style="border:none;max-width:100%;" src="https://download.ams.birds.cornell.edu/api/v1/asset/47818211/2400"/>
+<img alt="© Raymond Gagnon - Northern Waterthrush" style="border:none;max-width:100%;" src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/47818211/2400"/>
 </a>
 {: align="center"}
 
