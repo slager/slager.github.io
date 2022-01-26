@@ -26,15 +26,15 @@ https://stackoverflow.com/questions/15551779/open-link-in-new-tab-or-window
 \*mentored undergraduate co-author for course-based research
 {:style="margin-left:3em"}
 
-Booth, H.\*, Yruretagoyena, L.\*, Kuruvilla, M.\*, and **D.L. Slager**. In review. Marine feeding ecology and activity budgets of Belted Kingfishers during the post-fledging period
-{:h }
-
 MacPherson, M.P., Burgio, K.R., DeSaix, M.G., Freeman, B.G., Herbert, J., Herman, R., Jirinec, V., Shonfield, J., **Slager, D.L.**, van Rees, C.B., and J.E. Jankowski. [Predicting bird distributions under global change](https://www.biorxiv.org/content/10.1101/2021.05.26.445867v1){:nt }. *bioRxiv*
 {:h }
 
 # Peer-reviewed articles
 
-Theobald, E.L., Hill, M.J., Tran, E., Agrawal, S., Arroyo, E.N., Behling, S., Chambwe, N., Cintrón, D.L., Cooper, J.D., Dunster, G., Grummer, J.A., Hennessey, K., Hsiao, J., Iranon, N., Jones, L. II, Jordt, H.L., Keller, M., Lacey, M.E., Littlefield, C.E., Lowe, A.T., Newman, S., Okolo, V., Olroyd, S.L., Peecook, B.R., Pickett, S.B., **Slager, D.L.**, Caviedes-Solis, I.W., Stanchak, K.E., Sundaravardan, V., Valdebenito, C., Williams, C.R., Zinsli, K., and S. Freeman. 2020. [Active learning narrows achievement gaps for underrepresented students in undergraduate science, technology, engineering and math](https://doi.org/10.1073/pnas.1916903117){:nt }. *Proceedings of the National Academy of Sciences*
+Booth, H.\*, Yruretagoyena, L.\*, Kuruvilla, M.\*, and **D.L. Slager**. [On the marine feeding behavior and activity budgets of Belted Kingfishers (Megaceryle alcyon) during the post-fledging period](){:nt }. *Wilson Journal of Ornithology* 133:291-295
+{:h }
+
+Theobald, E.L., Hill, M.J., Tran, E., Agrawal, S., Arroyo, E.N., Behling, S., Chambwe, N., Cintrón, D.L., Cooper, J.D., Dunster, G., Grummer, J.A., Hennessey, K., Hsiao, J., Iranon, N., Jones, L. II, Jordt, H.L., Keller, M., Lacey, M.E., Littlefield, C.E., Lowe, A.T., Newman, S., Okolo, V., Olroyd, S.L., Peecook, B.R., Pickett, S.B., **Slager, D.L.**, Caviedes-Solis, I.W., Stanchak, K.E., Sundaravardan, V., Valdebenito, C., Williams, C.R., Zinsli, K., and S. Freeman. 2020. [Active learning narrows achievement gaps for underrepresented students in undergraduate science, technology, engineering and math](https://doi.org/10.1073/pnas.1916903117){:nt }. *Proceedings of the National Academy of Sciences* 117:6476-6483
 {:h }
 
 **Slager, D.L.**, Epperly, K.L., Ha, R.R., Rohwer, S., Wood, C., Van Hemert, C., and J. Klicka. 2020. [Cryptic and extensive hybridization between ancient lineages of American crows](https://doi.org/10.1111/mec.15377){:nt }. *Molecular Ecology* 29:956-969 [[preprint]](https://doi.org/10.1101/491654){:nt }
