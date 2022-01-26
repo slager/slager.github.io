@@ -34,7 +34,13 @@ https://stackoverflow.com/questions/15551779/open-link-in-new-tab-or-window
 
 # Appointments
 
-**Teaching Assistant**, 2013-present, University of Washington
+**Computational Biologist II**, 2022-present, Adaptive Biotechnologies
+{:h }
+
+**Research Consultant/Data Scientist**, 2020-2022, Department of Environmental and Occupational Health Sciences, University of Washington
+{:h }
+
+**Teaching Assistant**, 2013-2020, University of Washington
 {:h }
 
 **Short-term Research Fellow**, 2017, Smithsonian Tropical Research Institute
