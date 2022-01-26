@@ -11,7 +11,7 @@ https://stackoverflow.com/questions/15551779/open-link-in-new-tab-or-window
 {:/comment}
 {:nt: target="_blank" rel="noopener noreferrer"}
 
-## Current research
+## Graduate research
 {: align="center"}
 
 # Cryptic hybridization in American crows
@@ -46,9 +46,6 @@ Why do distantly related species sometimes closely resemble each other? Mimicry,
 The dispersal behavior that underlies range expansions is often a challenge to study. Eurasian Collared-Doves have staged independent northwestward invasions across both Europe and North America, reaching carrying capacity in Europe but continuing to increase exponentially in the Americas, where their dispersal behavior remains enigmatic. I used aggregated citizen science field notes to investigate Eurasian Collared-Dove dispersal behavior along the North American Pacific coast, a natural barrier to landbird dispersal. Using coastal and pelagic observations, I assessed the seasonality and directionality of dispersal-related behavior and its prevalence across years. Dispersal flights peaked in spring, like in Europe, and were north-biased, consistent with northwestward initial colonization. A non-significant trend of increasing dispersal across years may reflect evolution of dispersal via spatial sorting and selection. These results inform management of this invasive dove, raise new questions about evolutionary mechanisms behind the invasion, and exemplify using citizen science to study dispersal behavior, a longstanding challenge in ecology. An [open-access preprint](https://doi.org/10.1101/517540){:nt } of this work has been posted on *bioRxiv*.
 
 <br>
-
-## Past research
-{: align="center"}
 
 # Phylogenetics and systematics of the Vireonidae
 
