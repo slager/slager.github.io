@@ -296,6 +296,7 @@ See the [Publications](publications.md) page
 
 *Systematic Biology*  
 *Molecular Ecology*  
+*Current Zoology*  
 *Zootaxa*  
 *Genetica*  
 *The Auk: Ornithological Advances*  
