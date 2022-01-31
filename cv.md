@@ -21,13 +21,13 @@ https://stackoverflow.com/questions/15551779/open-link-in-new-tab-or-window
 
 # Education
 
-**Ph.D. student/candidate**, 2013-present, Department of Biology, **University of Washington**, Seattle, Washington. Graduate committee: John Klicka (advisor), Adam Leaché, Dick Olmstead, John Marzluff
+**Ph.D., 2020**, Biology, **University of Washington**, Seattle, Washington. Graduate committee: John Klicka (advisor), Adam Leaché, Dick Olmstead, John Marzluff
 {:h }
 
-**M.S., 2008-2011**, Wildlife Ecology, School of Environment and Natural Resources, **The Ohio State University**, Columbus, Ohio. Graduate committee: Paul Rodewald (advisor), Amanda Rodewald, Robert Gates
+**M.S., 2011**, Wildlife Ecology, School of Environment and Natural Resources, **The Ohio State University**, Columbus, Ohio. Graduate committee: Paul Rodewald (advisor), Amanda Rodewald, Robert Gates
 {:h }
 
-**B.S., 2001-2005**, Biology and Biochemistry, **Calvin College**, Grand Rapids, Michigan
+**B.S., 2005**, Biology and Biochemistry, **Calvin College**, Grand Rapids, Michigan
 {:h }
 
 <br>
