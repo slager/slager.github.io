@@ -212,6 +212,9 @@ See the [Publications](publications.md) page
 
 # Teaching
 
+**Teaching Assistant**, Evolution and Human Behavior (HONORS 221), University of Washington, Winter 2020. Instructor: Dr. Jon Herron
+{:h }
+
 **Teaching Assistant**, Vertebrate Biology (BIOL 452), University of Washington, Summer 2019. Instructor: Dr. Karen Petersen
 {:h }
 
