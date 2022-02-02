@@ -31,7 +31,7 @@ MacPherson, M.P., Burgio, K.R., DeSaix, M.G., Freeman, B.G., Herbert, J., Herman
 
 # Peer-reviewed articles
 
-Booth, H.\*, Yruretagoyena, L.\*, Kuruvilla, M.\*, and **D.L. Slager**. [On the marine feeding behavior and activity budgets of Belted Kingfishers (*Megaceryle alcyon*) during the post-fledging period](https://doi.org/10.1676/19-00023){:nt }. *Wilson Journal of Ornithology* 133:291-295
+Booth, H.\*, Yruretagoyena, L.\*, Kuruvilla, M.\*, and **D.L. Slager**. 2021. [On the marine feeding behavior and activity budgets of Belted Kingfishers (*Megaceryle alcyon*) during the post-fledging period](https://doi.org/10.1676/19-00023){:nt }. *Wilson Journal of Ornithology* 133:291-295
 {:h }
 
 Theobald, E.L., Hill, M.J., Tran, E., Agrawal, S., Arroyo, E.N., Behling, S., Chambwe, N., Cintrón, D.L., Cooper, J.D., Dunster, G., Grummer, J.A., Hennessey, K., Hsiao, J., Iranon, N., Jones, L. II, Jordt, H.L., Keller, M., Lacey, M.E., Littlefield, C.E., Lowe, A.T., Newman, S., Okolo, V., Olroyd, S.L., Peecook, B.R., Pickett, S.B., **Slager, D.L.**, Caviedes-Solis, I.W., Stanchak, K.E., Sundaravardan, V., Valdebenito, C., Williams, C.R., Zinsli, K., and S. Freeman. 2020. [Active learning narrows achievement gaps for underrepresented students in undergraduate science, technology, engineering and math](https://doi.org/10.1073/pnas.1916903117){:nt }. *Proceedings of the National Academy of Sciences* 117:6476-6483
