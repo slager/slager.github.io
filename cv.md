@@ -308,6 +308,7 @@ See the [Publications](publications.md) page
 *Journal of Ornithology*  
 *Journal of Field Ornithology*  
 *Wilson Journal of Ornithology* (3)  
+*PLOS ONE*  
 *Chinese Birds*  
 *Journal of Caribbean Ornithology*  
 *Journal of the Royal Society of Western Australia*
