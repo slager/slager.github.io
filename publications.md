@@ -23,13 +23,13 @@ https://stackoverflow.com/questions/15551779/open-link-in-new-tab-or-window
 
 # Preprints and articles in review
 
-\*mentored undergraduate co-author for course-based research
-{:style="margin-left:3em"}
-
 MacPherson, M.P., Burgio, K.R., DeSaix, M.G., Freeman, B.G., Herbert, J., Herman, R., Jirinec, V., Shonfield, J., **Slager, D.L.**, van Rees, C.B., and J.E. Jankowski. [Predicting bird distributions under global change](https://www.biorxiv.org/content/10.1101/2021.05.26.445867v1){:nt }. *bioRxiv*
 {:h }
 
 # Peer-reviewed articles
+
+\*mentored undergraduate co-author for course-based research
+{:style="margin-left:3em"}
 
 Booth, H.\*, Yruretagoyena, L.\*, Kuruvilla, M.\*, and **D.L. Slager**. 2021. [On the marine feeding behavior and activity budgets of Belted Kingfishers (*Megaceryle alcyon*) during the post-fledging period](https://doi.org/10.1676/19-00023){:nt }. *Wilson Journal of Ornithology* 133:291-295
 {:h }
