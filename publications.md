@@ -23,7 +23,7 @@ https://stackoverflow.com/questions/15551779/open-link-in-new-tab-or-window
 
 # Preprints and articles in review
 
-MacPherson, M.P., Burgio, K.R., DeSaix, M.G., Freeman, B.G., Herbert, J., Herman, R., Jirinec, V., Shonfield, J., **Slager, D.L.**, van Rees, C.B., and J.E. Jankowski. [Predicting bird distributions under global change](https://www.biorxiv.org/content/10.1101/2021.05.26.445867v1){:nt }. *bioRxiv*
+MacPherson, M.P., Burgio, K.R., DeSaix, M.G., Freeman, B.G., Herbert, J., Herman, R., Jirinec, V., Shonfield, J., **Slager, D.L.**, van Rees, C.B., and J.E. Jankowski. [Predicting bird distributions under global change](https://doi.org/10.1101/2021.05.26.445867){:nt }. *bioRxiv*
 {:h }
 
 # Peer-reviewed articles
