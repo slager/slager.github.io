@@ -26,6 +26,9 @@ https://stackoverflow.com/questions/15551779/open-link-in-new-tab-or-window
 MacPherson, M.P., Burgio, K.R., DeSaix, M.G., Freeman, B.G., Herbert, J., Herman, R., Jirinec, V., Shonfield, J., **Slager, D.L.**, van Rees, C.B., and J.E. Jankowski. [Predicting bird distributions under global change](https://doi.org/10.1101/2021.05.26.445867){:nt }. *bioRxiv*
 {:h }
 
+Blanco, M.N., Gassett, A., Gould, T., Doubleday, A., **Slager, D.L.**, Austin, E., Seto, E., Larson, T., Marshall, J., and L. Sheppard. [Characterization of annual average traffic-related air pollution levels (particle number, black carbon, nitrogen dioxide, PM<sub>2.5</sub>, carbon dioxide) in the greater Seattle area from a year-long mobile monitoring campaign](https://doi.org/10.1101/2021.09.18.21263522){:nt }. *medRxiv*
+{:h }
+
 # Peer-reviewed articles
 
 \*mentored undergraduate co-author for course-based research
