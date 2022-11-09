@@ -94,6 +94,45 @@ Ottenburghs, J. and **D. L. Slager**. 2020. [How common is avian hybridization o
 Preston, R.L., Clifford, R.J., Thompson, J.A., **Slager, D.L.**, Petersen, C.W., and G.W. Kidder. 2004. [CFTR mRNA expression in developing *Fundulus heteroclitus* embryos](https://mdibl.org/bulletin/bulletin_2004.pdf){:nt }. *Bulletin of the Mount Desert Island Biological Laboratory* 43:25-27
 {:h }
 
+# Taxonomic proposals submitted to avian checklist authorities
+
+**Slager, D.L.** 2022. [Invited commentary on 2022-A-1: Reinstate Northwestern Crow *Corvus caurinus* as a species](https://americanornithology.org/wp-content/uploads/2022/04/2022-A-final.pdf){:nt }. American Ornithological Society [North American Classification Committee](https://americanornithology.org/nacc)
+{:h }
+
+**Slager, D.L.** 2020. [Treat Northwestern Crow *Corvus caurinus* as conspecific with American Crow *C. brachyrhynchos*](https://americanornithology.org/wp-content/uploads/2020/03/2020-C.pdf){:nt }. American Ornithological Society [North American Classification Committee](https://americanornithology.org/nacc)
+{:h }
+
+**Slager, D.L.** and T. Chesser. 2017. [Revise the generic classification and linear sequence of *Anas*](https://americanornithology.org/wp-content/uploads/2020/02/2017-B.pdf){:nt }. American Ornithological Society [North American Classification Committee](https://americanornithology.org/nacc)
+{:h }
+
+**Slager, D.L.** 2017. [Transfer Blue-gray Noddy *Procelsterna cerulea* to the genus *Anous*](https://americanornithology.org/wp-content/uploads/2020/02/2017-A.pdf){:nt }. American Ornithological Society [North American Classification Committee](https://americanornithology.org/nacc)
+{:h }
+
+**Slager, D.L.** 2016. [Revise the linear sequence of Vireonidae](https://americanornithology.org/wp-content/uploads/2020/02/2016-B.pdf){:nt }. American Ornithological Society [North American Classification Committee](https://americanornithology.org/nacc)
+{:h }
+
+**Slager, D.L.** 2016. [Revise the generic classification of 3 species of *Hylophilus*: resurrect *Pachysylvia* and recognize *Tunchiornis*](https://americanornithology.org/wp-content/uploads/2020/02/2016-B.pdf){:nt }. American Ornithological Society [North American Classification Committee](https://americanornithology.org/nacc)
+{:h }
+
+**Slager, D.L.** 2015. [Transfer American Tree Sparrow *Spizella arborea* to *Spizelloides*](https://americanornithology.org/wp-content/uploads/2020/02/2015-A.pdf
+){:nt }. American Ornithological Society [North American Classification Committee](https://americanornithology.org/nacc)
+{:h }
+
+**Slager, D.L.** 2014. [Revise the linear sequence of Vireonidae](https://www.museum.lsu.edu/~Remsen/SACCprop661.htm){:nt }. American Ornithological Society [South American Classification Committee](http://www.museum.lsu.edu/%7ERemsen/SACCBaseline.htm)
+{:h }
+
+**Slager, D.L.** 2014. [Resurrect *Vireosylva* for the eye-lined vireo clade](https://www.museum.lsu.edu/~Remsen/SACCprop658.htm){:nt }. American Ornithological Society [South American Classification Committee](http://www.museum.lsu.edu/%7ERemsen/SACCBaseline.htm)
+{:h }
+
+**Slager, D.L.** 2014. [Change the English names of the greenlets](https://www.museum.lsu.edu/~Remsen/SACCprop657.htm){:nt }. American Ornithological Society [South American Classification Committee](http://www.museum.lsu.edu/%7ERemsen/SACCBaseline.htm)
+{:h }
+
+**Slager, D.L.** 2014. [Revise the generic classification of 6 species of *Hylophilus*: resurrect *Pachysylvia* and recognize *Tunchiornis*](https://www.museum.lsu.edu/~Remsen/SACCprop656.htm){:nt }. American Ornithological Society [South American Classification Committee](http://www.museum.lsu.edu/%7ERemsen/SACCBaseline.htm)
+{:h }
+
+**Slager, D.L.** 2014. [Transfer *Hylophilus sclateri* to *Vireo* and change English name to Tepui Vireo](https://www.museum.lsu.edu/~Remsen/SACCprop655.htm){:nt }. American Ornithological Society [South American Classification Committee](http://www.museum.lsu.edu/%7ERemsen/SACCBaseline.htm)
+{:h }
+
 # Invited presentations
 
 **Slager, D.L.** 2017. Unlocking the genomes of museum specimens to address longstanding questions in avian biology. Thompson Hall Science and Mathematics Seminar, University of Puget Sound, Tacoma, Washington (talk)
