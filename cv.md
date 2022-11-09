@@ -34,7 +34,7 @@ https://stackoverflow.com/questions/15551779/open-link-in-new-tab-or-window
 
 # Appointments
 
-**Computational Biologist II**, 2022-present, Adaptive Biotechnologies
+**Computational Biologist II**, 2022-present, Adaptive Biotechnologies, Seattle, WA
 {:h }
 
 **Research Consultant/Data Scientist**, 2020-2022, Department of Environmental and Occupational Health Sciences, University of Washington
