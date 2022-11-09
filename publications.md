@@ -205,35 +205,34 @@ Preston, R.L., Clifford, R.J., Thompson, J.A., **Slager, D.L.**, Petersen, C.W. 
 
 # Species accounts in [*Birds of the World*](https://birdsoftheworld.org/bow/home){:nt }
 
-\*mentored undergraduate co-author for course-based research  
-†additional author(s) and/or later date online reflect revisions to our original species account in *Neotropical Birds*, a precursor to *Birds of the World*
+\*mentored undergraduate co-author for course-based research
 {:style="margin-left:3em"}
 
-Nielsen, B.L.\* and **D.L. Slager**. 2019†. [Volcano Junco (*Junco vulcani*)](https://doi.org/10.2173/bow.voljun1.01){:nt } in T.S. Schulenberg, ed. *Birds of the World*. Cornell Lab of Ornithology, Ithaca, New York
+Nielsen, B.L.\* and **D.L. Slager**. 2019. [Volcano Junco (*Junco vulcani*)](https://doi.org/10.2173/nb.voljun1.01){:nt }, version 1.0. In T.S. Schulenberg, ed. *Birds of the World*. Cornell Lab of Ornithology, Ithaca, New York
 {:h }
 
-Smith, C.\* and **D.L. Slager**. 2016†. [Striped Sparrow (*Oriturus superciliosus*)](https://doi.org/10.2173/bow.strspa1.02){:nt } in T.S. Schulenberg, ed. *Birds of the World*. Cornell Lab of Ornithology, Ithaca, New York
+Smith, C.\* and **D.L. Slager**. 2016. [Striped Sparrow (*Oriturus superciliosus*)](https://doi.org/10.2173/nb.strspa1.01){:nt }, version 1.0. In T.S. Schulenberg, ed. *Birds of the World*. Cornell Lab of Ornithology, Ithaca, New York
 {:h }
 
-Quick, D.R.\* and **D.L. Slager**. 2015†. [White-browed Brushfinch (*Arremon torquatus*)](https://doi.org/10.2173/bow.sthbrf2.01){:nt } in T.S. Schulenberg, ed. *Birds of the World*. Cornell Lab of Ornithology, Ithaca, New York
+Quick, D.R.\* and **D.L. Slager**. 2015. [White-browed Brushfinch (*Arremon torquatus*)](https://doi.org/10.2173/nb.sthbrf2.01){:nt }, version 1.0. In T.S. Schulenberg, ed. *Birds of the World*. Cornell Lab of Ornithology, Ithaca, New York
 {:h }
 
-Voelker, K.N.\* and **D.L. Slager**. 2015†. [Olive Finch (*Arremon castaneiceps*)](https://doi.org/10.2173/bow.olifin1.01){:nt } in T.S. Schulenberg, ed. *Birds of the World*. Cornell Lab of Ornithology, Ithaca, New York
+Voelker, K.N.\* and **D.L. Slager**. 2015. [Olive Finch (*Arremon castaneiceps*)](https://doi.org/10.2173/nb.olifin1.01){:nt }, version 1.0. In T.S. Schulenberg, ed. *Birds of the World*. Cornell Lab of Ornithology, Ithaca, New York
 {:h }
 
-Murray, D.S.\* and **D.L. Slager**. 2015†. [Jamaican Vireo (*Vireo modestus*)](https://doi.org/10.2173/bow.jamvir1.01){:nt } in T.S. Schulenberg, ed. *Birds of the World*. Cornell Lab of Ornithology, Ithaca, New York
+Murray, D.S.\* and **D.L. Slager**. 2015. [Jamaican Vireo (*Vireo modestus*)](https://doi.org/10.2173/nb.jamvir1.01){:nt }, version 1.0. In T.S. Schulenberg, ed. *Birds of the World*. Cornell Lab of Ornithology, Ithaca, New York
 {:h }
 
-Kim, H.J. and **D.L. Slager**. 2015†. [Zapata Sparrow (*Torreornis inexpectata*)](https://doi.org/10.2173/bow.zapspa1.01){:nt } in T.S. Schulenberg, ed. *Birds of the World*. Cornell Lab of Ornithology, Ithaca, New York
+Kim, H.J. and **D.L. Slager**. 2015. [Zapata Sparrow (*Torreornis inexpectata*)](https://doi.org/10.2173/nb.zapspa1.01){:nt }, version 1.0. In T.S. Schulenberg, ed. *Birds of the World*. Cornell Lab of Ornithology, Ithaca, New York
 {:h }
 
-Olsen, D.G.\* and **D.L. Slager**. 2015†. [Golden-winged Sparrow (*Arremon schlegeli*)](https://doi.org/10.2173/bow.gowspa1.01){:nt } in T.S. Schulenberg, ed. *Birds of the World*. Cornell Lab of Ornithology, Ithaca, New York
+Olsen, D.G.\* and **D.L. Slager**. 2015. [Golden-winged Sparrow (*Arremon schlegeli*)](https://doi.org/10.2173/nb.gowspa1.01){:nt }, version 1.0. In T.S. Schulenberg, ed. *Birds of the World*. Cornell Lab of Ornithology, Ithaca, New York
 {:h }
 
-Gunningham, H.R.\* and **D.L. Slager**. 2015†. [Saffron-billed Sparrow (*Arremon flavirostris*)](https://doi.org/10.2173/bow.sabspa1.01.1){:nt } in T.S. Schulenberg, ed. *Birds of the World*. Cornell Lab of Ornithology, Ithaca, New York
+Gunningham, H.R.\* and **D.L. Slager**. 2015. [Saffron-billed Sparrow (*Arremon flavirostris*)](https://doi.org/10.2173/nb.sabspa1.01){:nt }, version 1.0. In T.S. Schulenberg, ed. *Birds of the World*. Cornell Lab of Ornithology, Ithaca, New York
 {:h }
 
-**Slager, D.L.** 2011†. [Rufous-naped Greenlet (*Hylophilus semibrunneus*)](https://doi.org/10.2173/bow.rungre1.01){:nt } in T.S. Schulenberg, ed. *Birds of the World*. Cornell Lab of Ornithology, Ithaca, New York
+**Slager, D.L.** 2011. [Rufous-naped Greenlet (*Hylophilus semibrunneus*)](https://doi.org/10.2173/nb.rungre1.01){:nt }, version 1.0. In T.S. Schulenberg, ed. *Birds of the World*. Cornell Lab of Ornithology, Ithaca, New York
 {:h }
 
 # Species accounts in *The Second Atlas of Breeding Birds in Ohio*
