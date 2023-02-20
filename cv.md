@@ -34,7 +34,10 @@ https://stackoverflow.com/questions/15551779/open-link-in-new-tab-or-window
 
 # Appointments
 
-**Computational Biologist II**, 2022-present, Adaptive Biotechnologies, Seattle, WA
+**Postdoctoral Associate/Quantitative Ecologist**, 2023-present, Cornell Lab of Ornithology, Ithaca, NY
+{:h }
+
+**Computational Biologist II**, 2022-2023, Adaptive Biotechnologies, Seattle, WA
 {:h }
 
 **Research Consultant/Data Scientist**, 2020-2022, Department of Environmental and Occupational Health Sciences, University of Washington
@@ -340,3 +343,4 @@ See the [Publications](publications.md) page
 **Paul W. Sykes, Jr.** (USGS Patuxent Wildlife Research Center), 
 **Caroline Van Hemert** (US Geological Survey), 
 **Gary Voelker** (Texas A&M University)
+
