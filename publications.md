@@ -138,6 +138,11 @@ Preston, R.L., Clifford, R.J., Thompson, J.A., **Slager, D.L.**, Petersen, C.W.,
 **Slager, D.L.** 2017. Unlocking the genomes of museum specimens to address longstanding questions in avian biology. Thompson Hall Science and Mathematics Seminar, University of Puget Sound, Tacoma, Washington (talk)
 {:h }
 
+# Symposium presentations
+
+**Slager, D.L.** 2020. Aggregate citizen science field notes reveal seasonal and directional dispersal flights in Eurasian Collared-Doves. Symposium: Predicting bird distributions under global change. North American Ornithological Conference VII, virtual (talk)
+{:h }
+
 # Contributed presentations
 
 **Slager, D.L.** 2019. Seasonal and directional dispersal behavior in an ongoing dove invasion. American Ornithological Society Conference, Anchorage, Alaska (talk)
