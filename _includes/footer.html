@@ -8,8 +8,8 @@
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
           <li>
-            &copy; {{ site.time | date: '%Y' }} {% if site.author %}
-              {{ site.author | escape }}
+            &copy; {{ site.time | date: '%Y' }} {% if site.author.name %}
+              {{ site.author.name | escape }}
             {% else %}
               {{ site.title | escape }}
             {% endif %}
