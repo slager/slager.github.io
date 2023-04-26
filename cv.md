@@ -308,7 +308,7 @@ See the [Publications](publications.md) page
 *The Auk: Ornithological Advances*  
 *The Condor: Ornithological Applications* (2)  
 *Ibis*  
-*Journal of Ornithology*  
+*Journal of Ornithology* (2)  
 *Journal of Field Ornithology*  
 *Wilson Journal of Ornithology* (3)  
 *PLOS ONE*  
