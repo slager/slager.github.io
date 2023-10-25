@@ -23,6 +23,9 @@ https://stackoverflow.com/questions/15551779/open-link-in-new-tab-or-window
 
 # Preprints and articles in review
 
+Zuidema, C., Bi, J., Burnham, D., Carmona, N., Gassett, A.J., **Slager, D.L.**, Schumacher, C., Austin, E., Seto, E., Szpiro, A.A., and L. Sheppard. Leveraging low-cost sensors to predict nitrogen dioxide for epidemiologic exposure assessment. In review.
+{:h }
+
 MacPherson, M.P., Burgio, K.R., DeSaix, M.G., Freeman, B.G., Herbert, J., Herman, R., Jirinec, V., Shonfield, J., **Slager, D.L.**, van Rees, C.B., and J.E. Jankowski. [Predicting bird distributions under global change](https://doi.org/10.1101/2021.05.26.445867){:nt }. *bioRxiv*
 {:h }
 
