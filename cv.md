@@ -34,7 +34,10 @@ https://stackoverflow.com/questions/15551779/open-link-in-new-tab-or-window
 
 # Appointments
 
-**Postdoctoral Associate/Quantitative Ecologist**, 2023-present, Cornell Lab of Ornithology, Ithaca, NY
+**Senior Statistical Programmer**, 2024-present, Fred Hutch Cancer Center, Seattle, WA
+{:h }
+
+**Postdoctoral Associate/Quantitative Ecologist**, 2023-2024, Cornell Lab of Ornithology, Ithaca, NY (remote)
 {:h }
 
 **Computational Biologist II**, 2022-2023, Adaptive Biotechnologies, Seattle, WA
