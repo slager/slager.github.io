@@ -23,9 +23,6 @@ https://stackoverflow.com/questions/15551779/open-link-in-new-tab-or-window
 
 # Preprints and articles in review
 
-Zuidema, C., Bi, J., Burnham, D., Carmona, N., Gassett, A.J., **Slager, D.L.**, Schumacher, C., Austin, E., Seto, E., Szpiro, A.A., and L. Sheppard. Leveraging low-cost sensors to predict nitrogen dioxide for epidemiologic exposure assessment. In review.
-{:h }
-
 MacPherson, M.P., Burgio, K.R., DeSaix, M.G., Freeman, B.G., Herbert, J., Herman, R., Jirinec, V., Shonfield, J., **Slager, D.L.**, van Rees, C.B., and J.E. Jankowski. [Predicting bird distributions under global change](https://doi.org/10.1101/2021.05.26.445867){:nt }. *bioRxiv*
 {:h }
 
@@ -33,6 +30,9 @@ MacPherson, M.P., Burgio, K.R., DeSaix, M.G., Freeman, B.G., Herbert, J., Herman
 
 \*mentored undergraduate co-author for course-based research
 {:style="margin-left:3em"}
+
+Zuidema, C., Bi, J., Burnham, D., Carmona, N., Gassett, A.J., **Slager, D.L.**, Schumacher, C., Austin, E., Seto, E., Szpiro, A.A., and L. Sheppard. 2024. [Leveraging low-cost sensors to predict nitrogen dioxide for epidemiologic exposure assessment](https://dx.doi.org/10.1038/s41370-024-00667-w){:nt }. *Journal of Exposure Science and Environmental Epidemiology*
+{:h }
 
 Blanco, M.N., Gassett, A., Gould, T., Doubleday, A., **Slager, D.L.**, Austin, E., Seto, E., Larson, T., Marshall, J., and L. Sheppard. 2022. [Characterization of annual average traffic-related air pollution concentrations in the greater Seattle area from a year-long mobile monitoring campaign](https://doi.org/10.1021/acs.est.2c01077){:nt }. *Environmental Science and Technology* 56:11460–11472 [[preprint](https://doi.org/10.1101/2021.09.18.21263522){:nt }]
 {:h }
