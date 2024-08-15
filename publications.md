@@ -148,6 +148,9 @@ Preston, R.L., Clifford, R.J., Thompson, J.A., **Slager, D.L.**, Petersen, C.W.,
 
 # Contributed presentations
 
+**Slager, D.L.**. 2024. What I learned resurrecting an R package. Posit Conference, Seattle, Washington (talk)
+{:h }
+
 **Slager, D.L.**, Van Doren, B., Fuentes, M., Plunkett, E., Farnsworth, A., Fink, D., Sheldon, D., Dokter, A. 2023. BirdFlow: Inferring migratory routes and connectivity from range-wide relative abundance data. American Ornithological Society Conference, London, Ontario, Canada (talk)
 {:h }
 
