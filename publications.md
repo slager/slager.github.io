@@ -21,15 +21,17 @@ https://stackoverflow.com/questions/15551779/open-link-in-new-tab-or-window
 
 # [Google Scholar profile](https://scholar.google.com/citations?user=8zJh4cMAAAAJ&hl=en){:nt }
 
+{::comment}
 # Preprints and articles in review
-
-MacPherson, M.P., Burgio, K.R., DeSaix, M.G., Freeman, B.G., Herbert, J., Herman, R., Jirinec, V., Shonfield, J., **Slager, D.L.**, van Rees, C.B., and J.E. Jankowski. [Predicting bird distributions under global change](https://doi.org/10.1101/2021.05.26.445867){:nt }. *bioRxiv*
-{:h }
+{:/comment}
 
 # Peer-reviewed articles
 
 \*mentored undergraduate co-author for course-based research
 {:style="margin-left:3em"}
+
+MacPherson, M., Burgio, K.R., DeSaix, M.G., Freeman, B.G., Herbert, J., Herman, R., Jirinec, V., Shonfield, J., **Slager, D.L.**, van Rees, C.B., and J.E. Jankowski. 2025. [An introduction to predictive distribution modelling for conservation to encourage novel perspectives](https://doi.org/10.32800/abc.2025.48.0001){:nt }. *Animal Biodiversity and Conservation* 48.1 [[preprint](https://doi.org/10.1101/2021.05.26.445867){:nt }]
+{:h }
 
 Zuidema, C., Bi, J., Burnham, D., Carmona, N., Gassett, A.J., **Slager, D.L.**, Schumacher, C., Austin, E., Seto, E., Szpiro, A.A., and L. Sheppard. 2024. [Leveraging low-cost sensors to predict nitrogen dioxide for epidemiologic exposure assessment](https://dx.doi.org/10.1038/s41370-024-00667-w){:nt }. *Journal of Exposure Science and Environmental Epidemiology*
 {:h }
