@@ -22,8 +22,11 @@ https://stackoverflow.com/questions/15551779/open-link-in-new-tab-or-window
 # [Google Scholar profile](https://scholar.google.com/citations?user=8zJh4cMAAAAJ&hl=en){:nt }
 
 {::comment}
-# Preprints and articles in review
 {:/comment}
+# Preprints and articles in review
+
+Shangmou, X., Velasco, V., Hill, M.J., Tran, E., Agrawal, S., Arroyo, E.N., Behling, S., Chambwe, N., Cintrón, D.L., Cooper, J.D., Dunster, G., Grummer, J.A., Hennessey, K., Hsiao, J., Iranon, N., Jones, L. II, Jordt, H.L., Keller, M., Lacey, M.E., Littlefield, C.E., Lowe, A.T., Newman, S., Okolo, V., Olroyd, S.L., Peecook, B.R., Pickett, S.B., **Slager, D.L.**, Caviedes-Solis, I.W., Stanchak, K.E., Sundaravardan, V., Valdebenito, C., Williams, C.R., Zinsli, K., Freeman, S., and E.J. Theobald. In review. Active learning’s impact on student course performance in STEM varies by type and intensity.
+{:h }
 
 # Peer-reviewed articles
 
