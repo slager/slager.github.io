@@ -25,6 +25,9 @@ https://stackoverflow.com/questions/15551779/open-link-in-new-tab-or-window
 {:/comment}
 # Preprints and articles in review
 
+Plunkett, E., Deng, Y., **Slager, D.L.**, Fuentes, M., Chen, Y., Van Doren, B.M., Dokter, A.M., and D. Sheldon. In review. Novel estimates of bird migration traffic at the continental scale using participatory science data.
+{:h }
+
 Chen, Y., **Slager, D.L.**, Plunkett, E., Fuentes, M., Deng, Y., Mackenzie, S.A., Berrigan, L.E., Fink, D., Sheldon, D., Van Doren, B.M., and A.M. Dokter. In review. Population-level migration modeling of North American birds through data integration with BirdFlow. [[preprint](https://doi.org/10.1101/2025.09.30.679621){:nt }]
 {:h }
 
