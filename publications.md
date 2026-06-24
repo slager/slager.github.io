@@ -31,15 +31,15 @@ Plunkett, E., Deng, Y., **Slager, D.L.**, Fuentes, M., Chen, Y., Van Doren, B.M.
 Chen, Y., **Slager, D.L.**, Plunkett, E., Fuentes, M., Deng, Y., Mackenzie, S.A., Berrigan, L.E., Fink, D., Sheldon, D., Van Doren, B.M., and A.M. Dokter. In review. Population-level migration modeling of North American birds through data integration with BirdFlow. [[preprint](https://doi.org/10.1101/2025.09.30.679621){:nt }]
 {:h }
 
-Shangmou, X., Velasco, V., Hill, M.J., Tran, E., Agrawal, S., Arroyo, E.N., Behling, S., Chambwe, N., Cintrón, D.L., Cooper, J.D., Dunster, G., Grummer, J.A., Hennessey, K., Hsiao, J., Iranon, N., Jones, L. II, Jordt, H.L., Keller, M., Lacey, M.E., Littlefield, C.E., Lowe, A.T., Newman, S., Okolo, V., Olroyd, S.L., Peecook, B.R., Pickett, S.B., **Slager, D.L.**, Caviedes-Solis, I.W., Stanchak, K.E., Sundaravardan, V., Valdebenito, C., Williams, C.R., Zinsli, K., Freeman, S., and E.J. Theobald. In review. Active learning’s impact on student course performance in STEM varies by type and intensity. [[preprint](https://doi.org/10.1101/2025.06.01.657285){:nt }]
-{:h }
-
 # Peer-reviewed articles
 
 \*mentored undergraduate co-author for course-based research
 {:style="margin-left:3em"}
 
-Miguel Fuentes, M., Epstein, J., Plunkett, E., Chen, Y., Deng, Y., **Slager, D.**, Dokter, A., Van Doren, B., and D. Sheldon. 2026. [Learning bird migration models from marginals with site fidelity and long-range dependencies](https://doi.org/10.1145/3811242.3819104){:nt }. ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS 2026).
+Shangmou, X., Velasco, V., Hill, M.J., Tran, E., Agrawal, S., Arroyo, E.N., Behling, S., Chambwe, N., Cintrón, D.L., Cooper, J.D., Dunster, G., Grummer, J.A., Hennessey, K., Hsiao, J., Iranon, N., Jones, L. II, Jordt, H.L., Keller, M., Lacey, M.E., Littlefield, C.E., Lowe, A.T., Newman, S., Okolo, V., Olroyd, S.L., Peecook, B.R., Pickett, S.B., **Slager, D.L.**, Caviedes-Solis, I.W., Stanchak, K.E., Sundaravardan, V., Valdebenito, C., Williams, C.R., Zinsli, K., Freeman, S., and E.J. Theobald. Accepted. The impact of active learning on student course performance in STEM varies by type and intensity: A meta-analysis. *Education Sciences*. [[preprint](https://doi.org/10.1101/2025.06.01.657285){:nt }]
+{:h }
+
+Miguel Fuentes, M., Epstein, J., Plunkett, E., Chen, Y., Deng, Y., **Slager, D.**, Dokter, A., Van Doren, B., and D. Sheldon. 2026. [Learning bird migration models from marginals with site fidelity and long-range dependencies](https://doi.org/10.1145/3811242.3819104){:nt }. *ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS 2026)*.
 {:h }
 
 MacPherson, M., Burgio, K.R., DeSaix, M.G., Freeman, B.G., Herbert, J., Herman, R., Jirinec, V., Shonfield, J., **Slager, D.L.**, van Rees, C.B., and J.E. Jankowski. 2025. [An introduction to predictive distribution modelling for conservation to encourage novel perspectives](https://doi.org/10.32800/abc.2025.48.0001){:nt }. *Animal Biodiversity and Conservation* 48.1 [[preprint](https://doi.org/10.1101/2021.05.26.445867){:nt }]
