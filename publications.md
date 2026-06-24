@@ -25,6 +25,9 @@ https://stackoverflow.com/questions/15551779/open-link-in-new-tab-or-window
 {:/comment}
 # Preprints and articles in review
 
+Miguel Fuentes, M., Epstein, J., Plunkett, E., Chen, Y., Deng, Y., **Slager, D.**, Dokter, A., Van Doren, B., and D. Sheldon. 2026. [Learning bird migration models from marginals with site fidelity and long-range dependencies](https://doi.org/10.1145/3811242.3819104){:nt }. ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS 2026).
+{:h }
+
 Plunkett, E., Deng, Y., **Slager, D.L.**, Fuentes, M., Chen, Y., Van Doren, B.M., Dokter, A.M., and D. Sheldon. In review. Novel estimates of bird migration traffic at the continental scale using participatory science data.
 {:h }
 
@@ -38,6 +41,8 @@ Shangmou, X., Velasco, V., Hill, M.J., Tran, E., Agrawal, S., Arroyo, E.N., Behl
 
 \*mentored undergraduate co-author for course-based research
 {:style="margin-left:3em"}
+
+
 
 MacPherson, M., Burgio, K.R., DeSaix, M.G., Freeman, B.G., Herbert, J., Herman, R., Jirinec, V., Shonfield, J., **Slager, D.L.**, van Rees, C.B., and J.E. Jankowski. 2025. [An introduction to predictive distribution modelling for conservation to encourage novel perspectives](https://doi.org/10.32800/abc.2025.48.0001){:nt }. *Animal Biodiversity and Conservation* 48.1 [[preprint](https://doi.org/10.1101/2021.05.26.445867){:nt }]
 {:h }
